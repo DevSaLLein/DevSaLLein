@@ -1,7 +1,7 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=header"/>
 <header align = "right"> 
 	<div>
-		<img src = "https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+I'm+Dev+SaLLein_;I'm+16+years+old;I+from+Brasil,+CE;I+study+Informática+;Be+Welcome!+:%29" />
+		<img src = "https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+I'm+Dev+SaLLein_;I'm+16+years+old_;I+from+Brasil,+CE_;I+study+Informática_+;Be+Welcome!+:%29_" />
 		<hr style="color: pink">
 		<img src="https://komarev.com/ghpvc/?username=DevSaLLein&color=red" alt="Profile views" /> 
 	</div>
