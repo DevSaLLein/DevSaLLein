@@ -10,9 +10,15 @@
 <header>
 	<section>
 		<img src = "https://raw.githubusercontent.com/gist/DevSaLLein/d5fef3102b68c5cc66a9c92a10c87e9d/raw/f1bfb468a4acd72370114cc77735683e706c7cf9/card.svg" height="500px" align = "right"/>
-	 	<a href="https://instagram.com/labrysinfo_student" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-		 <a href = "isaac.andrade@aluno.ce.gov.br"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-		 <a href="https://www.linkedin.com/in/isaac-lima-de-andrade-6a661524b/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 	 
+		<a href="https://www.linkedin.com/in/isaac-lima-de-andrade-6a661524b/" target="_blank">
+  			<img align="center" src="https://img.shields.io/badge/-DevSaLLein-05122A?style=flat&logo=linkedin" alt="linkedin"/>
+		</a>
+		<a href="https://instagram.com/labrysinfo_student" target="_blank">
+ 			<img align="center" src="https://img.shields.io/badge/-DevSaLLein-05122A?style=flat&logo=instagram" alt="instagram"/>
+		</a>
+		<a href="isaac.andrade@aluno.ce.gov.br" target="_blank">
+  			<img align="center" src="https://img.shields.io/badge/-DevSaLLein-05122A?style=flat&logo=gmail" alt="gmail"/>
+		</a> 	 
 	</section>	 
 
 </header>
