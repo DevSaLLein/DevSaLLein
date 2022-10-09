@@ -9,16 +9,7 @@
 
 <header>
 	<section>
-		<img src = "https://raw.githubusercontent.com/gist/DevSaLLein/d5fef3102b68c5cc66a9c92a10c87e9d/raw/f1bfb468a4acd72370114cc77735683e706c7cf9/card.svg" height="500px" align = "right"/>
-		<a href="https://www.linkedin.com/in/isaac-lima-de-andrade-6a661524b/" target="_blank">
-  			<img align="center" src="https://img.shields.io/badge/-DevSaLLein-05122A?style=flat&logo=linkedin" alt="linkedin"/>
-		</a>
-		<a href="https://instagram.com/labrysinfo_student" target="_blank">
- 			<img align="center" src="https://img.shields.io/badge/-DevSaLLein-05122A?style=flat&logo=instagram" alt="instagram"/>
-		</a>
-		<a href="isaac.andrade@aluno.ce.gov.br" target="_blank">
-  			<img align="center" src="https://img.shields.io/badge/-DevSaLLein-05122A?style=flat&logo=gmail" alt="gmail"/>
-		</a> 	 
+		<img src = "https://raw.githubusercontent.com/gist/DevSaLLein/d5fef3102b68c5cc66a9c92a10c87e9d/raw/f1bfb468a4acd72370114cc77735683e706c7cf9/card.svg" height="500px" align = "right"/>	 
 	</section>	 
 
 </header>
@@ -57,12 +48,22 @@
 	<p align >
 		<img src="https://github-profile-trophy.vercel.app/?username=DevSaLLein&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
 	</p>
-</footer>
-	
+</footer>	
 <div>	
   <img src="https://github.com/DevSaLLein/DevSaLLein/blob/output/github-contribution-grid-snake.svg" width="100%" >
 </div>
 
+<section align ="right">
+		<a href="https://www.linkedin.com/in/isaac-lima-de-andrade-6a661524b/" target="_blank">
+  			<img align="center" src="https://img.shields.io/badge/-DevSaLLein-05122A?style=flat&logo=linkedin" alt="linkedin"/>
+		</a>
+		<a href="https://instagram.com/labrysinfo_student" target="_blank">
+ 			<img align="center" src="https://img.shields.io/badge/-DevSaLLein-05122A?style=flat&logo=instagram" alt="instagram"/>
+		</a>
+		<a href="isaac.andrade@aluno.ce.gov.br" target="_blank">
+  			<img align="center" src="https://img.shields.io/badge/-DevSaLLein-05122A?style=flat&logo=gmail" alt="gmail"/>
+		</a> 
+	</section>
  <!--
 	<img src="https://activity-graph.herokuapp.com/graph?username=DevSaLLein&theme=gotham&hide_border=true&area=true">
 	<a href="www.instagram.com" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"</a>
