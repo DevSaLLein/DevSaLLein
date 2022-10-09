@@ -1,7 +1,8 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=header"/>
 <header align = "right"> 
-	<h1 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">, I'm  Labrys SaLLein</h1>
-	<div align="left"> 
+	<div>
+		<img src = "https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+I,m+Dev+SaLLein_;I'm+16+years+old;I+from+Brasil,+CE;I+study+Informática+;Be+Welcome!+:%29" />
+		<hr style="color: pink">
 		<img src="https://komarev.com/ghpvc/?username=DevSaLLein&color=red" alt="Profile views" /> 
 	</div>
 
@@ -28,8 +29,8 @@
 </main>
 -->
 <main align = "right" > 
-	<h2>
-	   🛠 &nbsp;Tech Stack
+	<h2 >
+	   🛠 &nbsp;Technologies & Tools
 	</h2>	
 	<p>
 		<img src="https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript"> 
@@ -38,7 +39,7 @@
 		<img src="https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github"> 
 		<img src="https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC">
 		<img src="https://img.shields.io/badge/-Git-05122A?style=flat&logo=git">
-		<img src="https://img.shields.io/badge/-PHP-05122A?style=flat&logo=php"> 
+		<img src="https://img.shields.io/badge/-PHP-05122A?style=flat&logo=php"> 		
 	</p>	
 </main>
 
@@ -54,17 +55,19 @@
 </div>
 
 <section align ="right">
+		<a href="www.gmail.com/labrysinfo_student" target="_blank">
+			<img src="https://img.shields.io/badge/-Gmail-%23E4405F?style=for-the-badge&logo=Gmail&logoColor=white"
+		</a>
+		<a href="www.instagram.com/labrysinfo_student" target="_blank">
+			<img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white">
+		</a>
 		<a href="https://www.linkedin.com/in/isaac-lima-de-andrade-6a661524b/" target="_blank">
-  			<img align="center" src="https://img.shields.io/badge/-DevSaLLein-05122A?style=flat&logo=linkedin" alt="linkedin"/>
-		</a>
-		<a href="https://instagram.com/labrysinfo_student" target="_blank">
- 			<img align="center" src="https://img.shields.io/badge/-DevSaLLein-05122A?style=flat&logo=instagram" alt="instagram"/>
-		</a>
-		<a href="isaac.andrade@aluno.ce.gov.br" target="_blank">
-  			<img align="center" src="https://img.shields.io/badge/-DevSaLLein-05122A?style=flat&logo=gmail" alt="gmail"/>
-		</a> 
+			<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />	
+		</a> 	
 	</section>
  <!--
+ 	<h1 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">, I'm  Labrys SaLLein</h1>
+ 
 	<img src="https://activity-graph.herokuapp.com/graph?username=DevSaLLein&theme=gotham&hide_border=true&area=true">
 	<a href="www.instagram.com" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"</a>
 	### Other Knowledge:
