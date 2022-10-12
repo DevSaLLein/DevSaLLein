@@ -56,10 +56,8 @@
 </div>
 
 <section align ="right">
-		<a href="www.gmail.com/labrysinfo_student" target="_blank">
-			<img src="https://img.shields.io/badge/-Gmail-%23E4405F?style=for-the-badge&logo=Gmail&logoColor=white" />
 		</a>
-		<a href="www.instagram.com/labrysinfo_student" target="_blank">
+		<a href="https://www.instagram.com/labrysinfo_student/" target="_blank">
 			<img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
 		</a>
 		<a href="https://www.linkedin.com/in/isaac-lima-de-andrade-6a661524b/" target="_blank">
