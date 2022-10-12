@@ -32,14 +32,14 @@
 	<h2 >
 	   🛠 &nbsp;Technologies & Tools
 	</h2>	
-	<p>
-		<img src="https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript"> 
-		<img src="https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5">
-		<img src="https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6">
-		<img src="https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github"> 
-		<img src="https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC">
-		<img src="https://img.shields.io/badge/-Git-05122A?style=flat&logo=git">
-		<img src="https://img.shields.io/badge/-PHP-05122A?style=flat&logo=php"> 		
+	<p>	
+		<img src="https://img.shields.io/badge/-Git-0D1117?style=for-the-badge&logo=git&&logoColor=&labelColor=0D1117"/>
+		<img src="https://img.shields.io/badge/-Visual%20Studio%20Code-0D1117?style=for-the-badge&logo=visual-studio-code&logoColor=007ACC&labelColor=0D1117"/>
+		<img src="https://img.shields.io/badge/-Edge-0D1117?style=for-the-badge&logo=Microsoft-edge&&logoColor=007ACC&labelColor=0D1117"/>
+		<img src="https://img.shields.io/badge/-CSS-0D1117?style=for-the-badge&logo=CSS3&logoColor=1572B6&labelColor=0D1117"&nbsp;/>
+		<img src="https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=JavaScript&logoColor=&labelColor=0D1117"/>
+		<img src="https://img.shields.io/badge/-HTML-0D1117?style=for-the-badge&logo=HTML5&logoColor=&labelColor=0D1117"/>
+		<img src="https://img.shields.io/badge/-PHP-0D1117?style=for-the-badge&logo=PHP&&logoColor=&labelColor=0D1117"/>
 	</p>	
 </main>
 
@@ -75,4 +75,7 @@
 	![Boostrap](https://img.shields.io/badge/-boostrap-0D1117?style=for-the-badge&logo=bootstrap&labelColor=0D1117)&nbsp;
 	![MySQL](https://img.shields.io/badge/-mysql-0D1117?style=for-the-badge&logo=mysql&labelColor=0D1117)&nbsp;
 	![Figma](https://img.shields.io/badge/-figma-0D1117?style=for-the-badge&logo=figma&labelColor=0D1117)&nbsp;
+	
+	[React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+	<img src="https://img.shields.io/badge/-GitHub-0D1117?style=for-the-badge&logo=github5&logoColor=&labelColor=0D1117"/>
 -->
