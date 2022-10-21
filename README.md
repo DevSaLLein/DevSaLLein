@@ -3,7 +3,7 @@
 	<div>
 		<img src = "https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+I'm+Dev+SaLLein_;I'm+16+years+old_;I+from+Brasil,+CE_;I+study+Informática_+;Be+Welcome!+:%29_" />
 		<hr style="color: pink">
-		<img src="https://komarev.com/ghpvc/?username=DevSaLLein&color=red" alt="Profile views" /> 
+		<img src="https://komarev.com/ghpvc/?username=devsallein&label=Profile%20views&color=0e75b6&style=flat" alt="devsallein" /> 
 	</div>
 
 </header>
