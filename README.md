@@ -67,14 +67,15 @@
 </section>
  <!--
  	<h1 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">, I'm  Labrys SaLLein</h1>
- 
 	<img src="https://activity-graph.herokuapp.com/graph?username=DevSaLLein&theme=gotham&hide_border=true&area=true">
 	<a href="www.instagram.com" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"</a>
 	### Other Knowledge:
 	<img src="https://img.shields.io/badge/-python-0D1117?style=for-the-badge&logo=python&logoColor=1572B6&labelColor=0D1117">	
 	![MySQL](https://img.shields.io/badge/-mysql-0D1117?style=for-the-badge&logo=mysql&labelColor=0D1117)&nbsp;
 	![Figma](https://img.shields.io/badge/-figma-0D1117?style=for-the-badge&logo=figma&labelColor=0D1117)&nbsp;
-	
+
+
+
 	[React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 	<img src="https://img.shields.io/badge/-GitHub-0D1117?style=for-the-badge&logo=github5&logoColor=&labelColor=0D1117"/>
 -->
