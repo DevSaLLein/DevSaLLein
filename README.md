@@ -10,7 +10,7 @@
 
 <header>
 	<section>
-		<img src = "https://raw.githubusercontent.com/gist/DevSaLLein/d5fef3102b68c5cc66a9c92a10c87e9d/raw/f1bfb468a4acd72370114cc77735683e706c7cf9/card.svg" height="500px" align = "right"/>	 
+		<img src = "https://raw.githubusercontent.com/gist/DevSaLLein/d5fef3102b68c5cc66a9c92a10c87e9d/raw/f1bfb468a4acd72370114cc77735683e706c7cf9/card.svg" height="500px" align = "right"/>
 	</section>	 
 
 </header>
@@ -46,10 +46,10 @@
 </main>
 
 <footer align ="right">
-  <img width="50%" height="195px" src="https://github-readme-stats.vercel.app/api?username=DevSaLLein&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" alt="Matheus Maia Alvarez github stats" /> 
+  <img width="50%" height="195px" src="https://github-readme-stats.vercel.app/api?username=DevSaLLein&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" alt="DevSaLLein stats" /> 
   <img width="50%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevSaLLein&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117" />
-	<p align >
-		<img src="https://github-profile-trophy.vercel.app/?username=DevSaLLein&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
+	<p>
+		<img src="https://github-profile-trophy.vercel.app/?username=DevSaLLein&theme=dracula&row=2&no-bg=true&column=3&margin-w=1&margin-h=1" width="44%" height='250px' />
 	</p>
 </footer>	
 <div>	
@@ -63,9 +63,11 @@
 		</a>
 		<a href="https://www.linkedin.com/in/isaac-lima-de-andrade-6a661524b/" target="_blank">
 			<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"  />	
-		</a> 	
+		</a>
 </section>
  <!--
+	<img src = "https://camo.githubusercontent.com/5ddf73ad3a205111cf8c686f687fc216c2946a75005718c8da5b837ad9de78c9/68747470733a2f2f7468756d62732e6766796361742e636f6d2f4576696c4e657874446576696c666973682d736d616c6c2e676966" aligh= "right" width="100px" height= "100px"/>
+
  	<h1 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">, I'm  Labrys SaLLein</h1>
 	<img src="https://activity-graph.herokuapp.com/graph?username=DevSaLLein&theme=gotham&hide_border=true&area=true">
 	<a href="www.instagram.com" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"</a>
