@@ -51,7 +51,7 @@
 	   <img src="https://img.shields.io/badge/-Edge-0D1117?style=for-the-badge&logo=Microsoft-edge&&logoColor=007ACC&labelColor=0D1117"/>
 	</p>
 	<section align='center'>
-		<img width="332px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevSaLLein&layout=compact&hide_border=true&&theme=dracula"/>
+		<img width="330px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevSaLLein&layout=compact&hide_border=true&&theme=dracula"/>
 		<img width="332px" src="https://github-readme-stats.vercel.app/api?username=DevSaLLein&layout=compact&hide_border=true&&theme=dracula"/>
 		<img width="332px" src="https://github-readme-streak-stats.herokuapp.com/?user=DevSaLLein&layout=compact&hide_border=true&&theme=dracula"/>
 	</section>
@@ -64,9 +64,10 @@
 		</summary>
 		<img src="https://github-profile-trophy.vercel.app/?username=DevSaLLein&column=6&theme=dracula&margin-w=5&margin-h=5" width='750px'/>
 	</details>
-	<h2> </h2>
 	<div name='Cobrinha'>
-  		<img src="https://github.com/DevSaLLein/DevSaLLein/blob/output/github-contribution-grid-snake.svg" width="100%" >
+		<table align='center'>
+  			<tr><td><img src="https://github.com/DevSaLLein/DevSaLLein/blob/output/github-contribution-grid-snake.svg" width="100%" ></td></tr>
+		</table>
 	</div>
 	<section align ="right">
 		<a href="https://www.instagram.com/labrysinfo_student/" target="_blank">
