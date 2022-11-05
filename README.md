@@ -1,4 +1,4 @@
-<table><tr><td>
+
 <table align="right">
  	<tr><td><a href="">:us: English</a></td></tr>
  	<tr><td><a href="">:brazil: Português</a></td></tr>
