@@ -1,10 +1,9 @@
+<table><tr><td>
 <table align="right">
  	<tr><td><a href="">:us: English</a></td></tr>
  	<tr><td><a href="">:brazil: Português</a></td></tr>
 </table>
 <h2></h2>
-
-
 <header align = "right"> 
 	<div>
 		<img src = "https://readme-typing-svg.herokuapp.com/?color=ff1659&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+I'm+Dev+SaLLein_;I'm+16+years+old_;I+from+Brasil,+CE_;I+study+Informática_+;Be+Welcome!+:%29_" />
@@ -13,16 +12,10 @@
 			<img src="https://img.shields.io/github/stars/DevSaLLein?affiliations=OWNER%2CCOLLABORATOR&color=ff33ff&style=flat" alt="Stars"/>
 		</section>
 	</div>
-
-</header>
-
-<header>
 	<section>
 		<img src = "https://raw.githubusercontent.com/gist/DevSaLLein/d5fef3102b68c5cc66a9c92a10c87e9d/raw/f1bfb468a4acd72370114cc77735683e706c7cf9/card.svg" height="450px" align = "right"/>
 	</section>	 
-
 </header>
-
 <main align = "right"> 
 	<h2> 
 		👨🏻‍💻About Me 
@@ -51,9 +44,9 @@
 	   <img src="https://img.shields.io/badge/-Edge-0D1117?style=for-the-badge&logo=Microsoft-edge&&logoColor=007ACC&labelColor=0D1117"/>
 	</p>
 	<section align='center'>
-		<img width="330px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevSaLLein&layout=compact&hide_border=true&&theme=dracula"/>
-		<img width="332px" src="https://github-readme-stats.vercel.app/api?username=DevSaLLein&layout=compact&hide_border=true&&theme=dracula"/>
-		<img width="332px" src="https://github-readme-streak-stats.herokuapp.com/?user=DevSaLLein&layout=compact&hide_border=true&&theme=dracula"/>
+		<img width="325px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevSaLLein&layout=compact&hide_border=true&&theme=dracula"/>
+		<img width="325px" src="https://github-readme-stats.vercel.app/api?username=DevSaLLein&layout=compact&hide_border=true&&theme=dracula"/>
+		<img width="325px" src="https://github-readme-streak-stats.herokuapp.com/?user=DevSaLLein&layout=compact&hide_border=true&&theme=dracula"/>
 	</section>
 </main>	
 <footer>
@@ -78,6 +71,7 @@
 		</a>	
 	</section>
 </footer>
+
  <!--
 		ONDAS
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=ffc0cb&height=120&section=header"/>
