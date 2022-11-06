@@ -127,10 +127,8 @@ https://www.instagram.com/labrysinfo_student/
 
 		HI
 	<h1 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">, I'm  Labrys SaLLein</h1>
-	
-	<a href="www.instagram.com" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"</a>
 
-		Contribuição
+                Contribuição
 	<img src="https://activity-graph.herokuapp.com/graph?username=DevSaLLein&theme=gotham&hide_border=true&area=true">
 
 	### Other Knowledge:
@@ -138,6 +136,8 @@ https://www.instagram.com/labrysinfo_student/
 	![MySQL](https://img.shields.io/badge/-mysql-0D1117?style=for-the-badge&logo=mysql&labelColor=0D1117)&nbsp;
 	![Figma](https://img.shields.io/badge/-figma-0D1117?style=for-the-badge&logo=figma&labelColor=0D1117)&nbsp;
 	[React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+
+
 
  		Número de visitantes
 	<table align='center'> 
