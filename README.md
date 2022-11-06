@@ -1,4 +1,4 @@
-
+<table> <tr> <td>
 <table align="right">
  	<tr>
 		<td>
@@ -62,8 +62,8 @@
 		<tr>
 			<td>
 				<img src="https://img.shields.io/badge/-GitHub-0D1117?style=for-the-badge&logo=github&logoColor=&labelColor=0D1117"/>
-				<img src = 'https://img.shields.io/badge/-Windows-0D1117?style=for-the-badge&logo=windows&labelColor=0D1117'/>
-				<img src="https://img.shields.io/badge/-Visual%20Studio%20Code-0D1117?style=for-the-badge&logo=visual-studio- code&logoColor=007ACC&labelColor=0D1117"/>
+				<img src ='https://img.shields.io/badge/-Windows-0D1117?style=for-the-badge&logo=windows&labelColor=0D1117'/>
+				<img src="https://img.shields.io/badge/-Visual%20Studio%20Code-0D1117?style=for-the-badge&logo=visual-studio-code&logoColor=007ACC&labelColor=0D1117"/>
 				<img src="https://img.shields.io/badge/-Edge-0D1117?style=for-the-badge&logo=Microsoft-edge&&logoColor=007ACC&labelColor=0D1117"/>
 				<img src='https://img.shields.io/badge/-microsoft_office-0D1117?style=for-the-badge&logo=microsoft-office&labelColor=0D1117'/>
 				<img src='https://img.shields.io/badge/-microsoft_office-0D1117?style=for-the-badge&logo=microsoft-office&labelColor=0D1117'/>
@@ -90,14 +90,24 @@
 		</table>
 	</div>
 	<section align ="right">
-		<a href="https://www.instagram.com/labrysinfo_student/" target="_blank">
-			<img src="https://img.shields.io/badge/-@labrysinfo-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
-		</a>
-		<a href="https://www.linkedin.com/in/isaac-lima-de-andrade-6a661524b/" target="_blank">
-			<img src="https://img.shields.io/badge/IsaacLima-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>	
-		</a>	
+		<table align='left'>
+			<tr>
+				<th width='150px' align='center'>
+					<a href="https://www.instagram.com/labrysinfo_student/" target="_blank">
+						<img width='140px'src="https://img.shields.io/badge/-@labrysinfo-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+					</a>
+					<a href="https://www.linkedin.com/in/isaac-lima-de-andrade-6a661524b/" target="_blank">
+						<img width='140px' src="https://img.shields.io/badge/IsaacLima-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>	
+					</a>
+				</th>
+			</tr>
+		</table>
+		<h2>Contate-me</h2>	
 	</section>
+	</br>
+	<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=70&section=footer"/>
 </footer>
+</td></tr></table>
 
  <!--
 		ONDAS
@@ -131,5 +141,12 @@
 	[React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 
  		Número de visitantes
-	<img alt="visitors counter" src="https://profile-counter.glitch.me/isyuricunha/count.svg">
+	<table align='center'> 
+			<tr> 
+				<th> Visitantes </th>
+			</tr>
+		</table>
+	<section align='center'>
+		<img src="https://profile-counter.glitch.me/DevSaLLein/count.svg"/>
+	</section>
 -->
