@@ -1,4 +1,3 @@
-<table align='center'> <tr> <th width='835px'>
 <table align="right">
  	<tr>
 		<td>
@@ -107,7 +106,6 @@
 	</br>
 	<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=70&section=footer"/>
 </footer>
-</th></tr></table>
 
  <!--
 		ONDAS
