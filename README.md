@@ -65,7 +65,6 @@
 				<img src="https://img.shields.io/badge/-Visual%20Studio%20Code-0D1117?style=for-the-badge&logo=visual-studio-code&logoColor=007ACC&labelColor=0D1117"/>
 				<img src="https://img.shields.io/badge/-Edge-0D1117?style=for-the-badge&logo=Microsoft-edge&&logoColor=007ACC&labelColor=0D1117"/>
 				<img src='https://img.shields.io/badge/-microsoft_office-0D1117?style=for-the-badge&logo=microsoft-office&labelColor=0D1117'/>
-				<img src='https://img.shields.io/badge/-microsoft_office-0D1117?style=for-the-badge&logo=microsoft-office&labelColor=0D1117'/>
 			</td>
 		</tr>
 	</table>
@@ -92,10 +91,10 @@
 		<table align='left'>
 			<tr>
 				<th width='150px' align='center'>
-					<a href="https://www.instagram.com/labrysinfo_student/" target="_blank">
+					<a href="" target="_blank">
 						<img width='140px'src="https://img.shields.io/badge/-@labrysinfo-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
 					</a>
-					<a href="https://www.linkedin.com/in/isaac-lima-de-andrade-6a661524b/" target="_blank">
+					<a href="" target="_blank">
 						<img width='140px' src="https://img.shields.io/badge/IsaacLima-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>	
 					</a>
 				</th>
@@ -111,11 +110,9 @@
 		ONDAS
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=ffc0cb&height=120&section=header"/>
 
-
-<main>
-	<h2> Profile Trophy 🏆</h2>
-	<img src="https://github-profile-trophy.vercel.app/?username=DevSaLLein&column=6&theme=dracula&margin-w=5&margin-h=5" width='50%' height='100%'/>	
-</main>
+		SOCIAIS
+https://www.linkedin.com/in/isaac-lima-de-andrade-6a661524b/
+https://www.instagram.com/labrysinfo_student/
 
 
 		GIFs
