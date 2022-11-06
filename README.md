@@ -27,7 +27,7 @@
 <main align = "left">
 	<table max-width="50px">
 		<tr> 
-			<th width='550px'> 
+			<th width='5350px'> 
 				👨🏻‍💻About Me  
 			</th>
 		</tr>
