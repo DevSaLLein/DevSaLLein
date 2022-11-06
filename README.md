@@ -21,13 +21,13 @@
 			<img src="https://img.shields.io/github/stars/DevSaLLein?affiliations=OWNER%2CCOLLABORATOR&color=ff33ff&style=flat" alt="Stars"/>
 		</section>
 	<section>
-		<img src = "https://raw.githubusercontent.com/gist/DevSaLLein/d5fef3102b68c5cc66a9c92a10c87e9d/raw/f1bfb468a4acd72370114cc77735683e706c7cf9/card.svg" height="400px" align = "right"/>
 	</section>	 
 </header>
-<main align = "right">
-	<table width='49%'>
+<main align = "left">
+	<img src = "https://raw.githubusercontent.com/gist/DevSaLLein/d5fef3102b68c5cc66a9c92a10c87e9d/raw/f1bfb468a4acd72370114cc77735683e706c7cf9/card.svg" width="33%" align = "right"/>
+	<table max-width="50px">
 		<tr> 
-			<th> 
+			<th width='600px'> 
 				👨🏻‍💻About Me  
 			</th>
 		</tr>
@@ -65,14 +65,13 @@
 				<img src = 'https://img.shields.io/badge/-Windows-0D1117?style=for-the-badge&logo=windows&labelColor=0D1117'/>
 				<img src="https://img.shields.io/badge/-Visual%20Studio%20Code-0D1117?style=for-the-badge&logo=visual-studio- code&logoColor=007ACC&labelColor=0D1117"/>
 				<img src="https://img.shields.io/badge/-Edge-0D1117?style=for-the-badge&logo=Microsoft-edge&&logoColor=007ACC&labelColor=0D1117"/>
+				<img src='https://img.shields.io/badge/-microsoft_office-0D1117?style=for-the-badge&logo=microsoft-office&labelColor=0D1117'/>
+				<img src='https://img.shields.io/badge/-microsoft_office-0D1117?style=for-the-badge&logo=microsoft-office&labelColor=0D1117'/>
 			</td>
 		</tr>
-		<tr><td>
-			<img src='https://img.shields.io/badge/-microsoft_office-0D1117?style=for-the-badge&logo=microsoft-office&labelColor=0D1117'/>	
-		</td></tr>
 	</table>
 	<section align='center'>
-		<img width="33%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevSaLLein&layout=compact&hide_border=true&&theme=dracula"/>
+		<img width="32.5%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevSaLLein&layout=compact&hide_border=true&&theme=dracula"/>
 		<img width="33%" src="https://github-readme-stats.vercel.app/api?username=DevSaLLein&layout=compact&hide_border=true&&theme=dracula"/>
 		<img width="33%" src="https://github-readme-streak-stats.herokuapp.com/?user=DevSaLLein&layout=compact&hide_border=true&&theme=dracula"/>
 	</section>
