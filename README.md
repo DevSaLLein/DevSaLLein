@@ -25,7 +25,7 @@
 	</section>	 
 </header>
 <main align = "right">
-	<table>
+	<table width='49%'>
 		<tr> 
 			<th> 
 				👨🏻‍💻About Me  
@@ -65,9 +65,11 @@
 				<img src = 'https://img.shields.io/badge/-Windows-0D1117?style=for-the-badge&logo=windows&labelColor=0D1117'/>
 				<img src="https://img.shields.io/badge/-Visual%20Studio%20Code-0D1117?style=for-the-badge&logo=visual-studio- code&logoColor=007ACC&labelColor=0D1117"/>
 				<img src="https://img.shields.io/badge/-Edge-0D1117?style=for-the-badge&logo=Microsoft-edge&&logoColor=007ACC&labelColor=0D1117"/>
-				<img src='https://img.shields.io/badge/-microsoft_office-0D1117?style=for-the-badge&logo=microsoft-office&labelColor=0D1117'/>	
 			</td>
 		</tr>
+		<tr><td>
+			<img src='https://img.shields.io/badge/-microsoft_office-0D1117?style=for-the-badge&logo=microsoft-office&labelColor=0D1117'/>	
+		</td></tr>
 	</table>
 	<section align='center'>
 		<img width="33%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevSaLLein&layout=compact&hide_border=true&&theme=dracula"/>
