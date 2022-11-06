@@ -25,9 +25,9 @@
 	</section>	 
 </header>
 <main align = "left">
-	<table max-width="50px">
+	<table>
 		<tr> 
-			<th width='5350px'> 
+			<th width='535px'> 
 				👨🏻‍💻About Me  
 			</th>
 		</tr>
