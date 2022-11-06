@@ -55,7 +55,7 @@
  		<summary>
 			<h2> 🏆Profile Trophy </h2>
 		</summary>
-		<img src="https://github-profile-trophy.vercel.app/?username=DevSaLLein&column=6&theme=dracula&margin-w=5&margin-h=5" width='750px'/>
+		<img src="https://github-profile-trophy.vercel.app/?username=DevSaLLein&column=6&theme=onedark&margin-w=5&margin-h=5" width='750px'/>
 	</details>
 	<div name='Cobrinha'>
 		<table align='center'>
