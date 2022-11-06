@@ -37,6 +37,7 @@
 				<p>- Considero-me um developer junior; </p>
 				<p>- Estou no momento em um curso profissionalizante de Informática; </p>
 				<p> [Em desenvolvimento...] </p>
+				<p>.</p
 			</td>
 		</tr>
 		<tr>
