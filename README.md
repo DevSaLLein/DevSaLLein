@@ -27,7 +27,7 @@
 	<img src = "https://raw.githubusercontent.com/gist/DevSaLLein/d5fef3102b68c5cc66a9c92a10c87e9d/raw/f1bfb468a4acd72370114cc77735683e706c7cf9/card.svg" width="33%" align = "right"/>
 	<table max-width="50px">
 		<tr> 
-			<th width='600px'> 
+			<th width='550px'> 
 				👨🏻‍💻About Me  
 			</th>
 		</tr>
