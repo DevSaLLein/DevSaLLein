@@ -1,56 +1,83 @@
 
 <table align="right">
- 	<tr><td><a href="">:us: English</a></td></tr>
- 	<tr><td><a href="">:brazil: Português</a></td></tr>
+ 	<tr>
+		<td>
+			<a href="">:us: English</a>
+		</td>
+	</tr>
+ 	<tr>
+		<td>
+			<a href="">:brazil: Português</a>
+		</td>
+	</tr>
 </table>
 <h2></h2>
-<header align = "right"> 
-	<div>
+<header> 
+	<div align = "center">
 		<img src = "https://readme-typing-svg.herokuapp.com/?color=ff1659&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+I'm+Dev+SaLLein_;I'm+16+years+old_;I+from+Brasil,+CE_;I+study+Informática_+;Be+Welcome!+:%29_" />
-		<section>
+	</div>
+		<section alignn= 'right'>
 			<img src="https://komarev.com/ghpvc/?username=devsallein&label=Profile%20views&color=ff33ff&style=flat" alt="Followers" />
 			<img src="https://img.shields.io/github/stars/DevSaLLein?affiliations=OWNER%2CCOLLABORATOR&color=ff33ff&style=flat" alt="Stars"/>
 		</section>
-	</div>
 	<section>
 		<img src = "https://raw.githubusercontent.com/gist/DevSaLLein/d5fef3102b68c5cc66a9c92a10c87e9d/raw/f1bfb468a4acd72370114cc77735683e706c7cf9/card.svg" height="450px" align = "right"/>
 	</section>	 
 </header>
-<main align = "right"> 
-	<h2> 
-		👨🏻‍💻About Me 
-	</h2>
-	<p>- Estou dando foco no JavaScript no momento; </p>
-	<p>- Considero-me um developer junior; </p>
-	<p>- Estou no momento em um curso profissionalizante de Informática; </p>
-	<p> [Em desenvolvimento...] </p>
-	<h2>
-		⚡Technologies
-	</h2>	
-	<p>	
-		<img src="https://img.shields.io/badge/-Git-0D1117?style=for-the-badge&logo=git&&logoColor=&labelColor=0D1117"/>	
-		<img src="https://img.shields.io/badge/-CSS-0D1117?style=for-the-badge&logo=CSS3&logoColor=1572B6&labelColor=0D1117"/>
-		<img src="https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=JavaScript&logoColor=&labelColor=0D1117"/>
-		<img src="https://img.shields.io/badge/-HTML-0D1117?style=for-the-badge&logo=HTML5&logoColor=&labelColor=0D1117"/>
-		<img src="https://img.shields.io/badge/-PHP-0D1117?style=for-the-badge&logo=PHP&&logoColor=&labelColor=0D1117"/>
-	</p>
-	<h2>
-		🛠Tools
-	</h2>
-	<p>
-	   <img src="https://img.shields.io/badge/-GitHub-0D1117?style=for-the-badge&logo=github&logoColor=&labelColor=0D1117"/>
-	   <img src = 'https://img.shields.io/badge/-Windows-0D1117?style=for-the-badge&logo=windows&labelColor=0D1117'/>
-	   <img src="https://img.shields.io/badge/-Visual%20Studio%20Code-0D1117?style=for-the-badge&logo=visual-studio-code&logoColor=007ACC&labelColor=0D1117"/>	
-	   <img src="https://img.shields.io/badge/-Edge-0D1117?style=for-the-badge&logo=Microsoft-edge&&logoColor=007ACC&labelColor=0D1117"/>
-	</p>
+<main align = "right">
+	<table>
+		<tr> 
+			<th> 
+				👨🏻‍💻About Me  
+			</th>
+		</tr>
+		<tr>
+			<td>
+				<p>- Estou dando foco no JavaScript no momento; </p>
+				<p>- Considero-me um developer junior; </p>
+				<p>- Estou no momento em um curso profissionalizante de Informática; </p>
+				<p> [Em desenvolvimento...] </p>
+				<p>.</p>
+				<p>.</p>
+				<p>.</p>
+			</td>
+		</tr>
+		<tr>
+			<th>
+				⚡Technologies
+		</tr>
+			</th>	
+		<tr> 
+			<td>	
+				<img src="https://img.shields.io/badge/-Git-0D1117?style=for-the-badge&logo=git&&logoColor=&labelColor=0D1117"/>	
+				<img src="https://img.shields.io/badge/-CSS-0D1117?style=for-the-badge&logo=CSS3&logoColor=1572B6&labelColor=0D1117"/>
+				<img src="https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=JavaScript&logoColor=&labelColor=0D1117"/>
+				<img src="https://img.shields.io/badge/-HTML-0D1117?style=for-the-badge&logo=HTML5&logoColor=&labelColor=0D1117"/>
+				<img src="https://img.shields.io/badge/-PHP-0D1117?style=for-the-badge&logo=PHP&&logoColor=&labelColor=0D1117"/>
+			</td>
+		</tr>
+		<tr> 
+			<th>
+				🛠Tools
+			</th>
+		</tr>
+		<tr>
+			<td>
+			   <img src="https://img.shields.io/badge/-GitHub-0D1117?style=for-the-badge&logo=github&logoColor=&labelColor=0D1117"/>
+			   <img src = 'https://img.shields.io/badge/-Windows-0D1117?style=for-the-badge&logo=windows&labelColor=0D1117'/>
+			   <img src="https://img.shields.io/badge/-Visual%20Studio%20Code-0D1117?style=for-the-badge&logo=visual-studio- code&logoColor=007ACC&labelColor=0D1117"/>
+			   <img src="https://img.shields.io/badge/-Edge-0D1117?style=for-the-badge&logo=Microsoft-edge&&logoColor=007ACC&labelColor=0D1117"/>
+			</td>
+		</tr>
+	</table>
 	<section align='center'>
-		<img width="325px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevSaLLein&layout=compact&hide_border=true&&theme=dracula"/>
-		<img width="325px" src="https://github-readme-stats.vercel.app/api?username=DevSaLLein&layout=compact&hide_border=true&&theme=dracula"/>
-		<img width="325px" src="https://github-readme-streak-stats.herokuapp.com/?user=DevSaLLein&layout=compact&hide_border=true&&theme=dracula"/>
+		<img width="33%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevSaLLein&layout=compact&hide_border=true&&theme=dracula"/>
+		<img width="33%" src="https://github-readme-stats.vercel.app/api?username=DevSaLLein&layout=compact&hide_border=true&&theme=dracula"/>
+		<img width="33%" src="https://github-readme-streak-stats.herokuapp.com/?user=DevSaLLein&layout=compact&hide_border=true&&theme=dracula"/>
 	</section>
 </main>	
 <footer>
-	<h2> </h2>
+	<h2></h2>
 	<details align='center'>
  		<summary>
 			<h2> 🏆Profile Trophy </h2>
@@ -64,10 +91,10 @@
 	</div>
 	<section align ="right">
 		<a href="https://www.instagram.com/labrysinfo_student/" target="_blank">
-			<img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+			<img src="https://img.shields.io/badge/-@labrysinfo-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
 		</a>
 		<a href="https://www.linkedin.com/in/isaac-lima-de-andrade-6a661524b/" target="_blank">
-			<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>	
+			<img src="https://img.shields.io/badge/IsaacLima-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>	
 		</a>	
 	</section>
 </footer>
