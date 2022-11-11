@@ -1,7 +1,7 @@
 <table align="right">
  	<tr>
 		<td>
-			<a href="https://github/DevSaLLein/DevSaLLein/README-EN.md">:us: English</a>
+			<a href="https://github.com/DevSaLLein/DevSaLLein/blob/main/README-EN.md">:us: English</a>
 		</td>
 	</tr>
  	<tr>
