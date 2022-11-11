@@ -6,7 +6,7 @@
 	</tr>
  	<tr>
 		<td>
-			<a href="https://github.com/DevSaLLein/DevSaLLein/edit/main/README-BR.md">:brazil: Português</a>
+			<a href="https://github.com/DevSaLLein/DevSaLLein/blob/main/README-BR.md">:brazil: Português</a>
 		</td>
 	</tr>
 </table>
