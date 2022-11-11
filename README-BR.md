@@ -13,7 +13,7 @@
 <h2></h2>
 <header> 
 	<div align="center">
-		<img src="https://readme-typing-svg.herokuapp.com/?color=ff1659&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+I'm+Dev+SaLLein_;I'm+16+years+old_;I+from+Brasil,+CE_;I+study+Informática_+;Be+Welcome!+:%29_" />
+		<img src="https://readme-typing-svg.herokuapp.com/?color=ff1659&size=35&center=true&vCenter=true&width=1000&lines=Oie,+Eu+sou+DevSaLLein_;+Possuo+16+anos+de+idade_;+Sou+do+Brasil,+CE_;+Estudo+Informática_+;seja+bem-vindo(a)!+:%29_" />
 	</div>
 		<section align='right'>
 			<img src="https://komarev.com/ghpvc/?username=devsallein&label=Profile%20views&color=ff33ff&style=flat" alt="Followers" />
@@ -27,7 +27,7 @@
 	<table>
 		<tr> 
 			<th width='535px'> 
-				👨🏻‍💻About Me  
+				👨🏻‍💻Sobre mim 
 			</th>
 		</tr>
 		<tr>
@@ -41,7 +41,7 @@
 		</tr>
 		<tr>
 			<th>
-				⚡Technologies
+				⚡Tecnologias
 		</tr>
 			</th>	
 		<tr> 
@@ -55,7 +55,7 @@
 		</tr>
 		<tr> 
 			<th>
-				🛠Tools
+				🛠Ferramentas
 			</th>
 		</tr>
 		<tr>
@@ -78,7 +78,7 @@
 	<h2></h2>
 	<details align='center'>
  		<summary>
-			<h2> 🏆Profile Trophy </h2>
+			<h2> 🏆Troféus de Perfil </h2>
 		</summary>
 		<img src="https://github-profile-trophy.vercel.app/?username=DevSaLLein&column=6&theme=onedark&margin-w=5&margin-h=5" width='750px'/>
 	</details>
