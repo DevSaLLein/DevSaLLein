@@ -33,10 +33,10 @@
 		<tr>
 			<td>
 				<p>- Estou dando foco no JavaScript no momento; </p>
+				<p>- Almejo uma carreira sendo um desenvolvedor Full-Stack; </p>
 				<p>- Considero-me um developer junior; </p>
 				<p>- Estou no momento em um curso profissionalizante de Informática; </p>
-				<p> [Em desenvolvimento...] </p>
-				<p>.</p>
+				<p>- Programação por amor</p>
 			</td>
 		</tr>
 		<tr>
@@ -51,6 +51,7 @@
 				<img src="https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=JavaScript&logoColor=&labelColor=0D1117"/>
 				<img src="https://img.shields.io/badge/-HTML-0D1117?style=for-the-badge&logo=HTML5&logoColor=&labelColor=0D1117"/>
 				<img src="https://img.shields.io/badge/-PHP-0D1117?style=for-the-badge&logo=PHP&&logoColor=&labelColor=0D1117"/>
+				<img src="https://img.shields.io/badge/-Python-0D1117?style=for-the-badge&logo=python&&logoColor=&labelColor=0D1117"/>
 			</td>
 		</tr>
 		<tr> 
