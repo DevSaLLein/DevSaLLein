@@ -45,12 +45,13 @@
 			</th>	
 		<tr> 
 			<td>	
-				<img src="https://img.shields.io/badge/-Git-0D1117?style=for-the-badge&logo=git&&logoColor=&labelColor=0D1117"/>	
 				<img src="https://img.shields.io/badge/-CSS-0D1117?style=for-the-badge&logo=CSS3&logoColor=1572B6&labelColor=0D1117"/>
 				<img src="https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=JavaScript&logoColor=&labelColor=0D1117"/>
 				<img src="https://img.shields.io/badge/-HTML-0D1117?style=for-the-badge&logo=HTML5&logoColor=&labelColor=0D1117"/>
 				<img src="https://img.shields.io/badge/-PHP-0D1117?style=for-the-badge&logo=PHP&&logoColor=&labelColor=0D1117"/>
 				<img src="https://img.shields.io/badge/-Python-0D1117?style=for-the-badge&logo=python&&logoColor=&labelColor=0D1117"/>
+				<img src="https://img.shields.io/badge/react-0D1117.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
+				<img src="https://img.shields.io/badge/-mysql-0D1117?style=for-the-badge&logo=mysql&labelColor=0D1117"/>
 			</td>
 		</tr>
 		<tr> 
@@ -65,7 +66,7 @@
 				<img src="https://img.shields.io/badge/-Visual%20Studio%20Code-0D1117?style=for-the-badge&logo=visual-studio-code&logoColor=007ACC&labelColor=0D1117"/>
 				<img src="https://img.shields.io/badge/-Edge-0D1117?style=for-the-badge&logo=Microsoft-edge&&logoColor=007ACC&labelColor=0D1117"/>
 				<img src="https://img.shields.io/badge/-microsoft_office-0D1117?style=for-the-badge&logo=microsoft-office&labelColor=0D1117"/>
-				<img src="https://img.shields.io/badge/-mysql-0D1117?style=for-the-badge&logo=mysql&labelColor=0D1117">
+				<img src="https://img.shields.io/badge/-Git-0D1117?style=for-the-badge&logo=git&&logoColor=&labelColor=0D1117"/>
 			</td>
 		</tr>
 	</table>
