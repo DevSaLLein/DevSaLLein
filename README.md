@@ -13,7 +13,7 @@
 <h2></h2>
 <header> 
 	<div align="center">
-		<img src="https://readme-typing-svg.herokuapp.com/?color=ff1659&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+I'm+Dev+SaLLein_;I'm+16+years+old_;I+from+Brasil,+CE_;I+study+Informática_+;Be+Welcome!+:%29_" />
+		<img src="https://readme-typing-svg.herokuapp.com/?color=ff1659&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+I'm+Dev+SaLLein_;I'm+17+years+old_;I+from+Brasil,+CE_;I+study+Informática_+;Be+Welcome!+:%29_" />
 	</div>
 	<section align='right'>
 		<img src="https://komarev.com/ghpvc/?username=devsallein&label=Profile%20views&color=ff33ff&style=flat" alt="Followers" />
