@@ -35,7 +35,7 @@
 				<p>- Almejo uma carreira sendo um desenvolvedor Full-Stack; </p>
 				<p>- Considero-me um developer junior; </p>
 				<p>- Estou no momento em um curso profissionalizante de Informática; </p>
-				<p>- Programação por amor</p>
+				<p>- Programação por amor.</p>
 			</td>
 		</tr>
 		<tr>
@@ -52,6 +52,7 @@
 				<img src="https://img.shields.io/badge/-Python-0D1117?style=for-the-badge&logo=python&&logoColor=&labelColor=0D1117"/>
 				<img src="https://img.shields.io/badge/react-0D1117.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
 				<img src="https://img.shields.io/badge/-mysql-0D1117?style=for-the-badge&logo=mysql&labelColor=0D1117"/>
+				<img src="https://img.shields.io/badge/-python-0D1117?style=for-the-badge&logo=python&logoColor=1572B6&labelColor=0D1117">
 			</td>
 		</tr>
 		<tr> 
@@ -134,10 +135,7 @@ https://www.instagram.com/labrysinfo_student/
 	<img src="https://activity-graph.herokuapp.com/graph?username=DevSaLLein&theme=gotham&hide_border=true&area=true">
 
 	### Other Knowledge:
-	<img src="https://img.shields.io/badge/-python-0D1117?style=for-the-badge&logo=python&logoColor=1572B6&labelColor=0D1117">	
-	![MySQL](https://img.shields.io/badge/-mysql-0D1117?style=for-the-badge&logo=mysql&labelColor=0D1117)&nbsp;
 	![Figma](https://img.shields.io/badge/-figma-0D1117?style=for-the-badge&logo=figma&labelColor=0D1117)&nbsp;
-	[React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 
 
 
