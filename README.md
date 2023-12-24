@@ -52,7 +52,6 @@
 				<img src="https://img.shields.io/badge/-Python-0D1117?style=for-the-badge&logo=python&&logoColor=&labelColor=0D1117"/>
 				<img src="https://img.shields.io/badge/react-0D1117.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
 				<img src="https://img.shields.io/badge/-mysql-0D1117?style=for-the-badge&logo=mysql&labelColor=0D1117"/>
-				<img src="https://img.shields.io/badge/-python-0D1117?style=for-the-badge&logo=python&logoColor=1572B6&labelColor=0D1117">
 			</td>
 		</tr>
 		<tr> 
