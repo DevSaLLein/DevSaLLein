@@ -49,9 +49,13 @@
 				<img src="https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=JavaScript&logoColor=&labelColor=0D1117"/>
 				<img src="https://img.shields.io/badge/-HTML-0D1117?style=for-the-badge&logo=HTML5&logoColor=&labelColor=0D1117"/>
 				<img src="https://img.shields.io/badge/-PHP-0D1117?style=for-the-badge&logo=PHP&&logoColor=&labelColor=0D1117"/>
-				<img src="https://img.shields.io/badge/-Python-0D1117?style=for-the-badge&logo=python&&logoColor=&labelColor=0D1117"/>
 				<img src="https://img.shields.io/badge/react-0D1117.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
 				<img src="https://img.shields.io/badge/-mysql-0D1117?style=for-the-badge&logo=mysql&labelColor=0D1117"/>
+				<img src="https://img.shields.io/badge/Node.js-0D1117?style=for-the-badge&logo=node.js&logoColor=white" />
+				<img src="https://img.shields.io/badge/TypeScript-0D1117?style=for-the-badge&logo=typescript&logoColor=white" />
+				<img src="https://img.shields.io/badge/Postgresql-0D1117?style=for-the-badge&logo=postgresql&logoColor=white" />
+				<img src="https://img.shields.io/badge/Next.JS-0D1117?style=for-the-badge&logo=next.js&logoColor=white" />
+				<img src="https://img.shields.io/badge/JAVA SpringBoot-0D1117?style=for-the-badge&logo=springboot&logoColor=white" />
 			</td>
 		</tr>
 		<tr> 
