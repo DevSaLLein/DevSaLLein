@@ -52,10 +52,10 @@
 				<img src="https://img.shields.io/badge/react-0D1117.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
 				<img src="https://img.shields.io/badge/-mysql-0D1117?style=for-the-badge&logo=mysql&labelColor=0D1117"/>
 				<img src="https://img.shields.io/badge/Node.js-0D1117?style=for-the-badge&logo=node.js&logoColor=white" />
-				<img src="https://img.shields.io/badge/TypeScript-0D1117?style=for-the-badge&logo=typescript&logoColor=white" />
-				<img src="https://img.shields.io/badge/Postgresql-0D1117?style=for-the-badge&logo=postgresql&logoColor=white" />
+				<img src="https://img.shields.io/badge/TypeScript-0D1117?style=for-the-badge&logo=typescript&logoColor=1572B6" />
+				<img src="https://img.shields.io/badge/Postgresql-0D1117?style=for-the-badge&logo=postgresql&logoColor=1572B6" />
 				<img src="https://img.shields.io/badge/Next.JS-0D1117?style=for-the-badge&logo=next.js&logoColor=white" />
-				<img src="https://img.shields.io/badge/JAVA SpringBoot-0D1117?style=for-the-badge&logo=springboot&logoColor=white" />
+				<img src="https://img.shields.io/badge/JAVA SpringBoot-0D1117?style=for-the-badge&logo=springboot&logoColor=#adff2f" />
 			</td>
 		</tr>
 		<tr> 
