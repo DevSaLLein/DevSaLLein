@@ -80,12 +80,6 @@
 </main>	
 <footer>
 	<h2></h2>
-	<details align='center'>
- 		<summary>
-			<h2> 🏆Profile Trophy </h2>
-		</summary>
-		<img src="https://github-profile-trophy.vercel.app/?username=DevSaLLein&column=6&theme=onedark&margin-w=5&margin-h=5" width='750px'/>
-	</details>
 	<div name='Cobrinha'>
 		<table align='center'>
   			<tr>
@@ -95,26 +89,21 @@
                         </tr>
 		</table>
 	</div>
-<!-- 	<section align="right">
-		<table align='left'>
-			<tr>
-				<th width='150px' align='center'>
-					<a href="https://www.instagram.com/devsallein" target="_blank">
-						<img width='140px'src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
-					</a>
-					<a href="https://www.linkedin.com/in/devsallein/" target="_blank">
-						<img width='140px' src="https://img.shields.io/badge/Linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>	
-					</a>
-				</th>
-			</tr>
-		</table>
-		<h2>Contate-me</h2>	
-	</section> -->
 	</br>
 	<img width='100%' src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=70&section=footer"/>
 </footer>
 
  <!--
+
+ 		TROFEUS
+	<details align='center'>
+ 		<summary>
+			<h2> 🏆Profile Trophy </h2>
+		</summary>
+		<img src="https://github-profile-trophy.vercel.app/?username=DevSaLLein&column=6&theme=onedark&margin-w=5&margin-h=5" width='750px'/>
+	</details>
+
+ 
 		ONDAS
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=ffc0cb&height=120&section=header"/>
 
