@@ -99,11 +99,11 @@
 		<table align='left'>
 			<tr>
 				<th width='150px' align='center'>
-					<a href="" target="_blank">
-						<img width='140px'src="https://img.shields.io/badge/-@labrysinfo-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+					<a href="https://www.instagram.com/devsallein" target="_blank">
+						<img width='140px'src="https://img.shields.io/badge/-@Instagram%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
 					</a>
-					<a href="" target="_blank">
-						<img width='140px' src="https://img.shields.io/badge/IsaacLima-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>	
+					<a href="https://www.linkedin.com/in/devsallein/" target="_blank">
+						<img width='140px' src="https://img.shields.io/badge/Linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>	
 					</a>
 				</th>
 			</tr>
