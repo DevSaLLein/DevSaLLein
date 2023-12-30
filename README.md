@@ -95,7 +95,7 @@
                         </tr>
 		</table>
 	</div>
-	<section align="right">
+<!-- 	<section align="right">
 		<table align='left'>
 			<tr>
 				<th width='150px' align='center'>
@@ -109,7 +109,7 @@
 			</tr>
 		</table>
 		<h2>Contate-me</h2>	
-	</section>
+	</section> -->
 	</br>
 	<img width='100%' src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=70&section=footer"/>
 </footer>
