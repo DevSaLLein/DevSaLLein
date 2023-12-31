@@ -40,7 +40,9 @@ Desde então, mergulho diariamente nesse vasto mundo, buscando aprimorar meu con
 				<p>- Estou sempre aberto para novas aprendizagens!</p>
 			</td>
 		</tr>
-		<tr>
+	</table>
+ 	<table>
+  	<tr>
 			<th>
 				⚡Tecnologias
 		</tr>
@@ -60,6 +62,8 @@ Desde então, mergulho diariamente nesse vasto mundo, buscando aprimorar meu con
 				<img src="https://img.shields.io/badge/JAVA Spring-0D1117?style=for-the-badge&logo=springboot&logoColor=#adff2f" />
 			</td>
 		</tr>
+  	<table/>
+	<table align="center">
 		<tr> 
 			<th>
 				🛠Ferramentas
@@ -76,7 +80,7 @@ Desde então, mergulho diariamente nesse vasto mundo, buscando aprimorar meu con
 				<img src="https://img.shields.io/badge/-Git-0D1117?style=for-the-badge&logo=git&&logoColor=&labelColor=0D1117"/>
 			</td>
 		</tr>
-	</table>
+  	<table/>
 	<section align='center'>
 		<img height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevSaLLein&layout=compact&hide_border=true&&theme=dracula"/>
 		<img height="200px" src="https://github-readme-stats.vercel.app/api?username=DevSaLLein&layout=compact&hide_border=true&&theme=dracula"/> 
