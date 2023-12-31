@@ -13,7 +13,7 @@
 <h2></h2>
 <header> 
 	<div align="center">
-		<img src="https://readme-typing-svg.herokuapp.com/?color=ff1659&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+I'm+Dev+SaLLein_;I'm+17+years+old_;I+from+Brasil,+CE_;I+study+Informática_+;Be+Welcome!+:%29_" />
+		<img src="https://readme-typing-svg.herokuapp.com/?color=ff1659&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+Dev_;Be+Welcome!+:%29_" />
 	</div>
 	<section align='left'>
 		<img src="https://komarev.com/ghpvc/?username=devsallein&label=Profile%20views&color=ff33ff&style=flat" alt="Followers" />
@@ -24,20 +24,25 @@
 	<table>
 		<tr> 
 			<th> 
-				👨🏻‍💻About Me  
+				👨🏻‍💻Sobre mim
 			</th>
 		</tr>
 		<tr>
 			<td>
-				<p>- Almejo uma carreira sendo um desenvolvedor Full-Stack; </p>
-				<p>- Considero-me um developer junior; </p>
-				<p>- Estou no momento em um curso profissionalizante de Informática; </p>
-				<p>- Programação por amor.</p>
+				<p>
+Oi, meu nome é Isaac e tenho 17 anos. Minha trajetória na Tecnologia começou cedo, pois desde a infância, eu já tinha um contato significativo com esse universo. Sempre fui fascinado por coisas modernas, como celulares e computadores. Foi assim que descobri minha paixão pela Informática e, mais tarde, pela programação.
+
+Desde então, mergulho diariamente nesse vasto mundo, buscando aprimorar meu conhecimento e sonhando em me tornar um profissional na área. Estou em busca de oportunidades para iniciar minha jornada profissional como jovem aprendiz neste campo empolgante. Vamos construir o futuro juntos!
+				</p>
+				<p>- Almejo uma carreira sendo um desenvolvedor Full-Stack </p>
+				<p>- Considero-me um desenvolvedor junior </p>
+				<p>- Estou no momento em um curso profissionalizante de Informática </p>
+				<p>- Estou sempre aberto para novas aprendizagens!</p>
 			</td>
 		</tr>
 		<tr>
 			<th>
-				⚡Technologies
+				⚡Tecnologias
 		</tr>
 			</th>	
 		<tr> 
@@ -57,7 +62,7 @@
 		</tr>
 		<tr> 
 			<th>
-				🛠Tools
+				🛠Ferramentas
 			</th>
 		</tr>
 		<tr>
