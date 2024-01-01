@@ -93,7 +93,7 @@ Desde então, mergulho diariamente nesse vasto mundo, buscando aprimorar meu con
 		<table align='center'>
   			<tr>
                               <td>
-                                   <img src="https://github.com/DevSaLLein/DevSaLLein/blob/output/github-contribution-grid-snake.svg" width="100%" >
+                                   <img src="https://github.com/DevSaLLein/DevSaLLein/blob/output/github-contribution-grid-snake-dark.svg" width="100%" >
                               </td>
                         </tr>
 		</table>
