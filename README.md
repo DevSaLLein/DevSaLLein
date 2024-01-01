@@ -84,11 +84,17 @@ Desde então, mergulho diariamente nesse vasto mundo, buscando aprimorar meu con
                         </tr>
 		</table>
 	</div>
+	
 	</br>
 	<img width='100%' src="https://capsule-render.vercel.app/api?type=waving&height=90&color=gradient&reversal=false&section=footer&textBg=false&fontAlign=0&fontAlignY=0&descAlign=0&descAlignY=0"/>
 </footer>
 
  <!--
+
+ 	BUY ME A COFFEE
+  <a href="https://www.buymeacoffee.com/mokkapps" target="_blank" rel="noreferrer nofollow">
+      <img src="https://cdn.buymeacoffee.com/buttons/default-red.png" alt="Buy Me A Coffee" height="40" width="170" >
+    </a>
 
  		GRAFICOS 
 		<img height="200px" src="https://github-readme-streak-stats.herokuapp.com/?user=DevSaLLein&layout=compact&hide_border=true&&theme=dracula"/>
