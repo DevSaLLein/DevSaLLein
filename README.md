@@ -90,6 +90,11 @@ Desde então, mergulho diariamente nesse vasto mundo, buscando aprimorar meu con
 
  <!--
 
+
+ 	README - Concluido
+
+  	<img src="https://img.shields.io/badge/%20STATUS%20-%20CONCLU%C3%8DDO%20%20%20%20-44CC1?style=flat-square"/>
+
  	BUY ME A COFFEE
   <a href="https://www.buymeacoffee.com/mokkapps" target="_blank" rel="noreferrer nofollow">
       <img src="https://cdn.buymeacoffee.com/buttons/default-red.png" alt="Buy Me A Coffee" height="40" width="170" >
