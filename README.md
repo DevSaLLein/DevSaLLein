@@ -23,12 +23,8 @@
 <main>
 	<table>
 		<tr> 
-			<th> 
-				👨🏻‍💻Sobre mim
-			</th>
-		</tr>
-		<tr>
 			<td>
+				<h1>👨🏻‍💻Sobre mim</h1>
 				<p>
 Oi, meu nome é Isaac e tenho 17 anos. Minha trajetória na Tecnologia começou cedo, pois desde a infância, eu já tinha um contato significativo com esse universo. Sempre fui fascinado por coisas modernas, como celulares e computadores. Foi assim que descobri minha paixão pela Informática e, mais tarde, pela programação.
 
@@ -43,12 +39,8 @@ Desde então, mergulho diariamente nesse vasto mundo, buscando aprimorar meu con
 	</table>
  	<table>
   	<tr>
-			<th>
-				⚡Tecnologias
-		</tr>
-			</th>	
-		<tr> 
 			<td>	
+				<h1>⚡Tecnologias </h1>
 				<img src="https://img.shields.io/badge/-HTML-0D1117?style=for-the-badge&logo=HTML5&logoColor=&labelColor=0D1117"/>
 				<img src="https://img.shields.io/badge/-CSS-0D1117?style=for-the-badge&logo=CSS3&logoColor=1572B6&labelColor=0D1117"/>
 				<img src="https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=JavaScript&logoColor=&labelColor=0D1117"/>
@@ -65,12 +57,8 @@ Desde então, mergulho diariamente nesse vasto mundo, buscando aprimorar meu con
   	<table/>
 	<table align="center">
 		<tr> 
-			<th>
-				🛠Ferramentas
-			</th>
-		</tr>
-		<tr>
 			<td>
+				<h1>🛠Ferramentas</h1>
 				<img src="https://img.shields.io/badge/Canva-0D1117?style=for-the-badge&logo=canva&logoColor=1572B6&labelColor=0D1117">
 				<img src="https://img.shields.io/badge/-GitHub-0D1117?style=for-the-badge&logo=github&logoColor=&labelColor=0D1117"/>
 				<img src="https://img.shields.io/badge/-Windows-0D1117?style=for-the-badge&logo=windows&labelColor=0D1117"/>
