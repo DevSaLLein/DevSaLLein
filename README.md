@@ -88,7 +88,6 @@ Desde então, mergulho diariamente nesse vasto mundo, buscando aprimorar meu con
 	</section>
 </main>	
 <footer>
-	<h2></h2>
 	<div name='Cobrinha'>
 		<table align='center'>
   			<tr>
