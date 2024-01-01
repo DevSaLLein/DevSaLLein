@@ -24,7 +24,7 @@
 	<table>
 		<tr> 
 			<td>
-				<h1>👨🏻‍💻Sobre mim</h1>
+				<h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Sobre mim</h1>
 				<p>
 Oi, meu nome é Isaac e tenho 17 anos. Minha trajetória na Tecnologia começou cedo, pois desde a infância, eu já tinha um contato significativo com esse universo. Sempre fui fascinado por coisas modernas, como celulares e computadores. Foi assim que descobri minha paixão pela Informática e, mais tarde, pela programação.
 
