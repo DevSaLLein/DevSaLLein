@@ -72,7 +72,6 @@ Desde então, mergulho diariamente nesse vasto mundo, buscando aprimorar meu con
 	<section align='center'>
 		<img height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevSaLLein&layout=compact&hide_border=true&&theme=dracula"/>
 		<img height="200px" src="https://github-readme-stats.vercel.app/api?username=DevSaLLein&layout=compact&hide_border=true&&theme=dracula"/> 
-		<img height="200px" src="https://github-readme-streak-stats.herokuapp.com/?user=DevSaLLein&layout=compact&hide_border=true&&theme=dracula"/>
 	</section>
 </main>	
 <footer>
@@ -90,6 +89,10 @@ Desde então, mergulho diariamente nesse vasto mundo, buscando aprimorar meu con
 </footer>
 
  <!--
+
+ 		GRAFICOS 
+		<img height="200px" src="https://github-readme-streak-stats.herokuapp.com/?user=DevSaLLein&layout=compact&hide_border=true&&theme=dracula"/>
+   
 
  		TROFEUS
 	<details align='center'>
