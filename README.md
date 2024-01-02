@@ -71,8 +71,8 @@ Desde então, mergulho diariamente nesse vasto mundo, buscando aprimorar meu con
 		</tr>
   	<table/>
 	<section align='center'>
-		<img height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevSaLLein&layout=compact&hide_border=true&&theme=dracula"/>
-		<img height="200px" src="https://github-readme-stats.vercel.app/api?username=DevSaLLein&layout=compact&hide_border=true&&theme=dracula"/> 
+		<img height="200px" width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevSaLLein&layout=compact&hide_border=true&&theme=dracula"/>
+		<img height="200px" width="49%" src="https://github-readme-stats.vercel.app/api?username=DevSaLLein&layout=compact&hide_border=true&&theme=dracula"/> 
 	</section>
 </main>	
 <footer>
