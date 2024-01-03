@@ -13,104 +13,107 @@
 <h2></h2>
 <header> 
 	<div align="center">
-		<img src="https://readme-typing-svg.herokuapp.com/?color=ff1659&size=35&center=true&vCenter=true&width=1000&lines=Oie,+Eu+sou+DevSaLLein_;+Possuo+17+anos+de+idade_;+Sou+do+Brasil,+CE_;+Estudo+Informática_+;seja+bem-vindo(a)!+:%29_" />
+		<img src="https://readme-typing-svg.herokuapp.com/?color=ff1659&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+Dev_;Be+Welcome!+:%29_" />
 	</div>
-		<section align='right'>
-			<img src="https://komarev.com/ghpvc/?username=devsallein&label=Profile%20views&color=ff33ff&style=flat" alt="Followers" />
-			<img src="https://img.shields.io/github/stars/DevSaLLein?affiliations=OWNER%2CCOLLABORATOR&color=ff33ff&style=flat" alt="Stars"/>
-		</section>
-	<section>
-		<img src="https://raw.githubusercontent.com/gist/DevSaLLein/d5fef3102b68c5cc66a9c92a10c87e9d/raw/f1bfb468a4acd72370114cc77735683e706c7cf9/card.svg" width="33%" align = "right"/>
+	<section align='left'>
+		<img src="https://komarev.com/ghpvc/?username=devsallein&label=Profile%20views&color=ff33ff&style=flat" alt="Followers" />
+		<img src="https://img.shields.io/github/stars/DevSaLLein?affiliations=OWNER%2CCOLLABORATOR&color=ff33ff&style=flat" alt="Stars"/>
 	</section>	 
 </header>
-<main align = "left">
+<main>
 	<table>
 		<tr> 
-			<th width='535px'> 
-				👨🏻‍💻Sobre mim 
-			</th>
-		</tr>
-		<tr>
 			<td>
-				<p>- Estou dando foco no JavaScript no momento; </p>
-				<p>- Considero-me um developer junior; </p>
-				<p>- Estou no momento em um curso profissionalizante de Informática; </p>
-				<p> [Em desenvolvimento...] </p>
-				<p>.</p>
-			</td>
-		</tr>
-		<tr>
-			<th>
-				⚡Tecnologias
-		</tr>
-			</th>	
-		<tr> 
-			<td>	
-				<img src="https://img.shields.io/badge/-Git-0D1117?style=for-the-badge&logo=git&&logoColor=&labelColor=0D1117"/>	
-				<img src="https://img.shields.io/badge/-CSS-0D1117?style=for-the-badge&logo=CSS3&logoColor=1572B6&labelColor=0D1117"/>
-				<img src="https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=JavaScript&logoColor=&labelColor=0D1117"/>
-				<img src="https://img.shields.io/badge/-HTML-0D1117?style=for-the-badge&logo=HTML5&logoColor=&labelColor=0D1117"/>
-				<img src="https://img.shields.io/badge/-PHP-0D1117?style=for-the-badge&logo=PHP&&logoColor=&labelColor=0D1117"/>
-			</td>
-		</tr>
-		<tr> 
-			<th>
-				🛠Ferramentas
-			</th>
-		</tr>
-		<tr>
-			<td>
-				<img src="https://img.shields.io/badge/-GitHub-0D1117?style=for-the-badge&logo=github&logoColor=&labelColor=0D1117"/>
-				<img src="https://img.shields.io/badge/-Windows-0D1117?style=for-the-badge&logo=windows&labelColor=0D1117"/>
-				<img src="https://img.shields.io/badge/-Visual%20Studio%20Code-0D1117?style=for-the-badge&logo=visual-studio-code&logoColor=007ACC&labelColor=0D1117"/>
-				<img src="https://img.shields.io/badge/-Edge-0D1117?style=for-the-badge&logo=Microsoft-edge&&logoColor=007ACC&labelColor=0D1117"/>
-				<img src="https://img.shields.io/badge/-microsoft_office-0D1117?style=for-the-badge&logo=microsoft-office&labelColor=0D1117"/>
+				<h2><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/>Sobre mim</h2>
+				<p>
+Olá, o meu nome é Isaac e tenho 17 anos. A minha carreira na área da tecnologia começou cedo, pois tive um contacto significativo com este universo desde a infância. Sempre fui fascinado por coisas modernas como telemóveis e computadores. Foi assim que descobri a minha paixão pela informática e, mais tarde, pela programação.
+
+Desde então, tenho mergulhado diariamente nesse vasto mundo, buscando aprimorar meus conhecimentos e sonhando em me tornar um profissional da área. Estou à procura de oportunidades para iniciar o meu percurso profissional como jovem aprendiz nesta área apaixonante. Vamos construir o futuro juntos!
+				</p>
+				<p>- Quero uma carreira como programador Full-Stack </p>
+				<p>- Considero-me um programador júnior </p>
+				<p>- Estou atualmente a frequentar um curso profissional de informática </p>
+				<p>- Estou sempre aberto a aprender coisas novas!</p>
 			</td>
 		</tr>
 	</table>
+ 	<table>
+  	<tr>
+			<td>	
+				<h2>⚡Tecnologias </h2>
+				<img src="https://img.shields.io/badge/-HTML-0D1117?style=for-the-badge&logo=HTML5&logoColor=&labelColor=0D1117"/>
+				<img src="https://img.shields.io/badge/-CSS-0D1117?style=for-the-badge&logo=CSS3&logoColor=1572B6&labelColor=0D1117"/>
+				<img src="https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=JavaScript&logoColor=&labelColor=0D1117"/>
+				<img src="https://img.shields.io/badge/-PHP-0D1117?style=for-the-badge&logo=PHP&&logoColor=&labelColor=0D1117"/>
+				<img src="https://img.shields.io/badge/react-0D1117.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
+				<img src="https://img.shields.io/badge/-mysql-0D1117?style=for-the-badge&logo=mysql&labelColor=0D1117"/>
+				<img src="https://img.shields.io/badge/Node.js-0D1117?style=for-the-badge&logo=node.js&logoColor=#adff2f" />
+				<img src="https://img.shields.io/badge/TypeScript-0D1117?style=for-the-badge&logo=typescript&logoColor=1572B6" />
+				<img src="https://img.shields.io/badge/Postgresql-0D1117?style=for-the-badge&logo=postgresql&logoColor=1572B6" />
+				<img src="https://img.shields.io/badge/Next.JS-0D1117?style=for-the-badge&logo=next.js&logoColor=white" />
+				<img src="https://img.shields.io/badge/JAVA Spring-0D1117?style=for-the-badge&logo=springboot&logoColor=#adff2f" />
+			</td>
+		</tr>
+  	<table/>
+	<table align="center">
+		<tr> 
+			<td>
+				<h2>🛠Ferramentas</h2>
+				<img src="https://img.shields.io/badge/Canva-0D1117?style=for-the-badge&logo=canva&logoColor=1572B6&labelColor=0D1117">
+				<img src="https://img.shields.io/badge/-GitHub-0D1117?style=for-the-badge&logo=github&logoColor=&labelColor=0D1117"/>
+				<img src="https://img.shields.io/badge/-Windows-0D1117?style=for-the-badge&logo=windows&labelColor=0D1117"/>
+				<img src="https://img.shields.io/badge/-Visual Studio Code-0D1117?style=for-the-badge&logo=visual-studio-code&logoColor=007ACC&labelColor=0D1117"/>
+				<img src="https://img.shields.io/badge/-Edge-0D1117?style=for-the-badge&logo=Microsoft-edge&&logoColor=007ACC&labelColor=0D1117"/>
+				<img src="https://img.shields.io/badge/-Git-0D1117?style=for-the-badge&logo=git&&logoColor=&labelColor=0D1117"/>
+    				<img src="https://img.shields.io/badge/-postman-0D1117?style=for-the-badge&logo=postman&&logoColor=&labelColor=0D1117"/>
+				<img src="https://img.shields.io/badge/-vite-0D1117?style=for-the-badge&logo=vite&&logoColor=&labelColor=0D1117"/>
+			</td>
+		</tr>
+  	<table/>
 	<section align='center'>
-		<img width="32.5%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevSaLLein&layout=compact&hide_border=true&&theme=dracula"/>
-		<img width="33%" src="https://github-readme-stats.vercel.app/api?username=DevSaLLein&layout=compact&hide_border=true&&theme=dracula"/>
-		<img width="33%" src="https://github-readme-streak-stats.herokuapp.com/?user=DevSaLLein&layout=compact&hide_border=true&&theme=dracula"/>
+		<img height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevSaLLein&layout=compact&hide_border=true&&theme=dracula"/>
+		<img height="200px" src="https://github-readme-stats.vercel.app/api?username=DevSaLLein&layout=compact&hide_border=true&&theme=dracula"/> 
 	</section>
 </main>	
 <footer>
-	<h2></h2>
-	<details align='center'>
- 		<summary>
-			<h2> 🏆Troféus de Perfil </h2>
-		</summary>
-		<img src="https://github-profile-trophy.vercel.app/?username=DevSaLLein&column=6&theme=onedark&margin-w=5&margin-h=5" width='750px'/>
-	</details>
 	<div name='Cobrinha'>
 		<table align='center'>
   			<tr>
                               <td>
-                                   <img src="https://github.com/DevSaLLein/DevSaLLein/blob/output/github-contribution-grid-snake.svg" width="100%" >
+                                   <img src="https://github.com/DevSaLLein/DevSaLLein/blob/output/github-contribution-grid-snake-dark.svg" width="100%" >
                               </td>
                         </tr>
 		</table>
 	</div>
-	<section align="right">
-		<table align='left'>
-			<tr>
-				<th width='150px' align='center'>
-					<a href="" target="_blank">
-						<img width='140px'src="https://img.shields.io/badge/-@labrysinfo-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
-					</a>
-					<a href="" target="_blank">
-						<img width='140px' src="https://img.shields.io/badge/IsaacLima-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>	
-					</a>
-				</th>
-			</tr>
-		</table>
-		<h2>Contate-me</h2>	
-	</section>
 	</br>
-	<img width='100%' src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=70&section=footer"/>
+	<img width='100%' src="https://capsule-render.vercel.app/api?type=waving&height=90&color=gradient&reversal=false&section=footer&textBg=false&fontAlign=0&fontAlignY=0&descAlign=0&descAlignY=0"/>
 </footer>
 
  <!--
+
+
+ 	README - Concluido
+
+  	<img src="https://img.shields.io/badge/%20STATUS%20-%20CONCLU%C3%8DDO%20%20%20%20-44CC1?style=flat-square"/>
+
+ 	BUY ME A COFFEE
+  <a href="https://www.buymeacoffee.com/mokkapps" target="_blank" rel="noreferrer nofollow">
+      <img src="https://cdn.buymeacoffee.com/buttons/default-red.png" alt="Buy Me A Coffee" height="40" width="170" >
+    </a>
+
+ 		GRAFICOS 
+		<img height="200px" src="https://github-readme-streak-stats.herokuapp.com/?user=DevSaLLein&layout=compact&hide_border=true&&theme=dracula"/>
+   
+
+ 		TROFEUS
+	<details align='center'>
+ 		<summary>
+			<h2> 🏆Profile Trophy </h2>
+		</summary>
+		<img src="https://github-profile-trophy.vercel.app/?username=DevSaLLein&column=6&theme=onedark&margin-w=5&margin-h=5" width='750px'/>
+	</details>
+
+ 
 		ONDAS
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=ffc0cb&height=120&section=header"/>
 
@@ -132,10 +135,7 @@ https://www.instagram.com/labrysinfo_student/
 	<img src="https://activity-graph.herokuapp.com/graph?username=DevSaLLein&theme=gotham&hide_border=true&area=true">
 
 	### Other Knowledge:
-	<img src="https://img.shields.io/badge/-python-0D1117?style=for-the-badge&logo=python&logoColor=1572B6&labelColor=0D1117">	
-	![MySQL](https://img.shields.io/badge/-mysql-0D1117?style=for-the-badge&logo=mysql&labelColor=0D1117)&nbsp;
 	![Figma](https://img.shields.io/badge/-figma-0D1117?style=for-the-badge&logo=figma&labelColor=0D1117)&nbsp;
-	[React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 
 
 
