@@ -24,23 +24,23 @@
 	<table>
 		<tr> 
 			<td>
-				<h2><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Sobre mim</h2>
+				<h2><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/>  About me </h2>
 				<p>
-Oi, meu nome é Isaac e tenho 17 anos. Minha trajetória na Tecnologia começou cedo, pois desde a infância, eu já tinha um contato significativo com esse universo. Sempre fui fascinado por coisas modernas, como celulares e computadores. Foi assim que descobri minha paixão pela Informática e, mais tarde, pela programação.
+Hi, my name is Isaac and I'm 17 years old. My career in technology started early, as I had significant contact with this universe since childhood. I've always been fascinated by modern things like cell phones and computers. That's how I discovered my passion for IT and, later, for programming.
 
-Desde então, mergulho diariamente nesse vasto mundo, buscando aprimorar meu conhecimento e sonhando em me tornar um profissional na área. Estou em busca de oportunidades para iniciar minha jornada profissional como jovem aprendiz neste campo empolgante. Vamos construir o futuro juntos!
+Since then, I have immersed myself in this vast world on a daily basis, seeking to improve my knowledge and dreaming of becoming a professional in the field. I'm looking for opportunities to start my professional journey as a young apprentice in this exciting field. Let's build the future together!
 				</p>
-				<p>- Almejo uma carreira sendo um desenvolvedor Full-Stack </p>
-				<p>- Considero-me um desenvolvedor junior </p>
-				<p>- Estou no momento em um curso profissionalizante de Informática </p>
-				<p>- Estou sempre aberto para novas aprendizagens!</p>
+				<p>- I want a career as a Full-Stack developer </p>
+				<p>- I consider myself a junior developer </p>
+				<p>- I'm currently taking a vocational computer course </p>
+				<p>- I'm always open to learning new things!</p>
 			</td>
 		</tr>
 	</table>
  	<table>
   	<tr>
 			<td>	
-				<h2>⚡Tecnologias </h2>
+				<h2>⚡Technologies </h2>
 				<img src="https://img.shields.io/badge/-HTML-0D1117?style=for-the-badge&logo=HTML5&logoColor=&labelColor=0D1117"/>
 				<img src="https://img.shields.io/badge/-CSS-0D1117?style=for-the-badge&logo=CSS3&logoColor=1572B6&labelColor=0D1117"/>
 				<img src="https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=JavaScript&logoColor=&labelColor=0D1117"/>
@@ -58,7 +58,7 @@ Desde então, mergulho diariamente nesse vasto mundo, buscando aprimorar meu con
 	<table align="center">
 		<tr> 
 			<td>
-				<h2>🛠Ferramentas</h2>
+				<h2>🛠Tools</h2>
 				<img src="https://img.shields.io/badge/Canva-0D1117?style=for-the-badge&logo=canva&logoColor=1572B6&labelColor=0D1117">
 				<img src="https://img.shields.io/badge/-GitHub-0D1117?style=for-the-badge&logo=github&logoColor=&labelColor=0D1117"/>
 				<img src="https://img.shields.io/badge/-Windows-0D1117?style=for-the-badge&logo=windows&labelColor=0D1117"/>
