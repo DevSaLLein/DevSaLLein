@@ -59,7 +59,7 @@ Since then, I have immersed myself in this vast world on a daily basis, seeking 
 	<table align="center">
 		<tr> 
 			<td>
-				<h2>🛠Tools</h2>
+				<h2>🛠 Tools</h2>
 				<img src="https://img.shields.io/badge/Canva-0D1117?style=for-the-badge&logo=canva&logoColor=1572B6&labelColor=0D1117">
 				<img src="https://img.shields.io/badge/-GitHub-0D1117?style=for-the-badge&logo=github&logoColor=&labelColor=0D1117"/>
 				<img src="https://img.shields.io/badge/-Windows-0D1117?style=for-the-badge&logo=windows&labelColor=0D1117"/>
