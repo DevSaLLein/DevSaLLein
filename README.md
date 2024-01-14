@@ -24,7 +24,7 @@
 	<table>
 		<tr> 
 			<td>
-				<h2><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/>  About me </h2>
+				<h2><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="24px"/>  About me </h2>
 				<p>
 Hi, my name is Isaac and I'm 17 years old. My career in technology started early, as I had significant contact with this universe since childhood. I've always been fascinated by modern things like cell phones and computers. That's how I discovered my passion for IT and, later, for programming.
 
@@ -40,7 +40,7 @@ Since then, I have immersed myself in this vast world on a daily basis, seeking 
  	<table>
   	<tr>
 			<td>	
-				<h2><img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="24"> Technologies </h2>
+				<h2><img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="20px"> Technologies </h2>
 				<img src="https://img.shields.io/badge/-HTML-0D1117?style=for-the-badge&logo=HTML5&logoColor=&labelColor=0D1117"/>
 				<img src="https://img.shields.io/badge/-CSS-0D1117?style=for-the-badge&logo=CSS3&logoColor=1572B6&labelColor=0D1117"/>
 				<img src="https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=JavaScript&logoColor=&labelColor=0D1117"/>
