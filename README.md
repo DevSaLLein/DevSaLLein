@@ -40,7 +40,7 @@ Since then, I have immersed myself in this vast world on a daily basis, seeking 
  	<table>
   	<tr>
 			<td>	
-				<h2>⚡Technologies </h2>
+				<h2><img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="24"> Technologies </h2>
 				<img src="https://img.shields.io/badge/-HTML-0D1117?style=for-the-badge&logo=HTML5&logoColor=&labelColor=0D1117"/>
 				<img src="https://img.shields.io/badge/-CSS-0D1117?style=for-the-badge&logo=CSS3&logoColor=1572B6&labelColor=0D1117"/>
 				<img src="https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=JavaScript&logoColor=&labelColor=0D1117"/>
