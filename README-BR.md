@@ -31,8 +31,7 @@ Olá, o meu nome é Isaac e tenho 17 anos. A minha carreira na área da tecnolog
 Desde então, tenho mergulhado diariamente nesse vasto mundo, buscando aprimorar meus conhecimentos e sonhando em me tornar um profissional da área. Estou à procura de oportunidades para iniciar o meu percurso profissional como jovem aprendiz nesta área apaixonante. Vamos construir o futuro juntos!
 				</p>
 				<p>- Quero uma carreira como programador Full-Stack </p>
-				<p>- Considero-me um programador júnior </p>
-				<p>- Estou atualmente a frequentar um curso profissional de informática </p>
+				<p>- Estou atualmente cursando Engenharia de Software </p>
 				<p>- Estou sempre aberto a aprender coisas novas!</p>
 			</td>
 		</tr>
