@@ -26,7 +26,7 @@
 			<td>
 				<h2><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/>Sobre mim</h2>
 				<p>
-Olá, o meu nome é Isaac e tenho 17 anos. A minha carreira na área da tecnologia começou cedo, pois tive um contacto significativo com este universo desde a infância. Sempre fui fascinado por coisas modernas como telemóveis e computadores. Foi assim que descobri a minha paixão pela informática e, mais tarde, pela programação.
+Olá, o meu nome é Isaac e tenho 18 anos. A minha carreira na área da tecnologia começou cedo, pois tive um contacto significativo com este universo desde a infância. Sempre fui fascinado por coisas modernas como telemóveis e computadores. Foi assim que descobri a minha paixão pela informática e, mais tarde, pela programação.
 
 Desde então, tenho mergulhado diariamente nesse vasto mundo, buscando aprimorar meus conhecimentos e sonhando em me tornar um profissional da área. Estou à procura de oportunidades para iniciar o meu percurso profissional como jovem aprendiz nesta área apaixonante. Vamos construir o futuro juntos!
 				</p>
@@ -50,7 +50,7 @@ Desde então, tenho mergulhado diariamente nesse vasto mundo, buscando aprimorar
 				<img src="https://img.shields.io/badge/TypeScript-0D1117?style=for-the-badge&logo=typescript&logoColor=1572B6" />
 				<img src="https://img.shields.io/badge/Postgresql-0D1117?style=for-the-badge&logo=postgresql&logoColor=1572B6" />
 				<img src="https://img.shields.io/badge/Next.JS-0D1117?style=for-the-badge&logo=next.js&logoColor=white" />
-				<img src="https://img.shields.io/badge/JAVA Spring-0D1117?style=for-the-badge&logo=springboot&logoColor=#adff2f" />
+				<img src="https://img.shields.io/badge/spring-0D1117?style=for-the-badge&logo=spring&logoColor=236DB33F" />
     				<img src="https://img.shields.io/badge/tailwind-0D1117.svg?style=for-the-badge&logo=tailwindcss&logoColor=%2361DAFB"/>
 			</td>
 		</tr>
