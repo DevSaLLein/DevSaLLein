@@ -71,12 +71,6 @@ Since then, I have immersed myself in this vast world on a daily basis, seeking 
 			</td>
 		</tr>
   	<table/>
-	<section align='center'>
-		<img height="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevSaLLein&layout=compact&hide_border=true&theme=dracula"/>
-		<img height="100%" src="https://github-readme-stats.vercel.app/api?username=DevSaLLein&layout=compact&hide_border=true&hide_title=true&theme=dracula"/> 
-	</section>
-</main>	
-<footer>
 	<div name='Cobrinha'>
 		<table align='center'>
   			<tr>
@@ -86,6 +80,12 @@ Since then, I have immersed myself in this vast world on a daily basis, seeking 
                         </tr>
 		</table>
 	</div>
+</main>	
+<footer>
+ 	<section align='center'>
+		<img height="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevSaLLein&layout=compact&hide_border=true&theme=dracula"/>
+		<img height="100%" src="https://github-readme-stats.vercel.app/api?username=DevSaLLein&layout=compact&hide_border=true&hide_title=true&theme=dracula"/> 
+	</section>
 	</br>
 	<img width='100%' src="https://capsule-render.vercel.app/api?type=waving&height=90&color=gradient&reversal=false&section=footer&textBg=false&fontAlign=0&fontAlignY=0&descAlign=0&descAlignY=0"/>
 </footer>
