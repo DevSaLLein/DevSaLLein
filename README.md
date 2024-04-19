@@ -82,6 +82,7 @@ Since then, I have immersed myself in this vast world on a daily basis, seeking 
 	</div>
 </main>	
 <footer>
+	</br>
  	<section align='center'>
 		<img height="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevSaLLein&layout=compact&hide_border=true&theme=dracula"/>
 		<img height="100%" src="https://github-readme-stats.vercel.app/api?username=DevSaLLein&layout=compact&hide_border=true&hide_title=true&theme=dracula"/> 
