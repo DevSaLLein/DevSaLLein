@@ -73,28 +73,12 @@ Since then, I have immersed myself in this vast world on a daily basis, seeking 
 		</table>
 	</div>
 </main>	
-<footer>
-	</br>
- 	<section align='center'>
-		<img height="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevSaLLein&layout=compact&hide_border=true&theme=dracula"/>
-		<img height="100%" src="https://github-readme-stats.vercel.app/api?username=DevSaLLein&layout=compact&hide_border=true&hide_title=true&theme=dracula"/> 
-	</section>
-	</br>
-	<img width='100%' src="https://capsule-render.vercel.app/api?type=waving&height=90&color=gradient&reversal=false&section=footer&textBg=false&fontAlign=0&fontAlignY=0&descAlign=0&descAlignY=0"/>
-</footer>
 
  <!--
 
- 	license and figma
-  ## 🔖 Layout
 
-Você pode visualizar o layout do projeto através [DESSE LINK](https://www.figma.com/community/file/1187422022288947321). É necessário ter conta no [Figma](https://figma.com) para acessá-lo.
 
-## :memo: Licença
 
-Esse projeto está sob a licença MIT.
-
----
 
 	template
  <p align="center">
@@ -109,52 +93,10 @@ Esse projeto está sob a licença MIT.
 
   	<img src="https://img.shields.io/badge/%20STATUS%20-%20CONCLU%C3%8DDO%20%20%20%20-44CC1?style=flat-square"/>
 
- 	BUY ME A COFFEE
-  <a href="https://www.buymeacoffee.com/mokkapps" target="_blank" rel="noreferrer nofollow">
-      <img src="https://cdn.buymeacoffee.com/buttons/default-red.png" alt="Buy Me A Coffee" height="40" width="170" >
-    </a>
 
  		GRAFICOS 
-		<img height="200px" src="https://github-readme-streak-stats.herokuapp.com/?user=DevSaLLein&layout=compact&hide_border=true&&theme=dracula"/>
-   
+		<img height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevSaLLein&layout=compact&hide_border=true&theme=dracula"/>  
+  			<img height="200px" src="https://github-readme-streak-stats.herokuapp.com/?user=DevSaLLein&layout=compact&hide_border=true&&theme=dracula"/>
+		<img height="100%" src="https://github-readme-stats.vercel.app/api?username=DevSaLLein&layout=compact&hide_border=true&hide_title=true&theme=dracula"/> 
 
- 		TROFEUS
-	<details align='center'>
- 		<summary>
-			<h2> 🏆Profile Trophy </h2>
-		</summary>
-		<img src="https://github-profile-trophy.vercel.app/?username=DevSaLLein&column=6&theme=onedark&margin-w=5&margin-h=5" width='750px'/>
-	</details>
-
- 
-		ONDAS
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=ffc0cb&height=120&section=header"/>
-
-
-		GIFs
-	<img src="https://camo.githubusercontent.com/5ddf73ad3a205111cf8c686f687fc216c2946a75005718c8da5b837ad9de78c9/68747470733a2f2f7468756d62732e6766796361742e636f6d2f4576696c4e657874446576696c666973682d736d616c6c2e676966" aligh= "right" width="100px" height= "100px"/>
-	<img src="https://developers.giphy.com/branch/master/static/api-512d36c09662682717108a38bbb5c57d.gif" width="480"/>
-	<img src="https://developers.giphy.com/branch/master/static/api-512d36c09662682717108a38bbb5c57d.gif" width="480"/>
-
-
-		HI
-	<h1 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">, I'm  Labrys SaLLein</h1>
-
-                Contribuição
-	<img src="https://activity-graph.herokuapp.com/graph?username=DevSaLLein&theme=gotham&hide_border=true&area=true">
-
-	### Other Knowledge:
-	![Figma](https://img.shields.io/badge/-figma-0D1117?style=for-the-badge&logo=figma&labelColor=0D1117)&nbsp;
-
-
-
- 		Número de visitantes
-	<table align='center'> 
-			<tr> 
-				<th> Visitantes </th>
-			</tr>
-		</table>
-	<section align='center'>
-		<img src="https://profile-counter.glitch.me/DevSaLLein/count.svg"/>
-	</section>
 -->
