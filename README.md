@@ -25,7 +25,6 @@
 		<tr> 
 			<td>
 				<h2><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="24px"/>  About me </h2>
-				<blockquote>
 				<p>
 					
 Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="20px">, my name is Isaac and I'm 18 years old. My career in technology started early, as I had significant contact with this universe since childhood. I've always been fascinated by modern things like cell phones and computers. That's how I discovered my passion for IT and, later, for programming.
@@ -35,7 +34,6 @@ Since then, I have immersed myself in this vast world on a daily basis, seeking 
 				<p>- I want a career as a Full-Stack developer </p>
 				<p>- I'm currently studying Software Engineering </p>
 				<p>- I'm always open to learning new things!</p>
-    <blockquote>
 			</td>
 		</tr>
 	</table>
@@ -93,6 +91,7 @@ ondas
   <a href="#memo-licença">Licença</a>
 </p>
 
+	<blockquote>
 
  	README - Concluido
 
