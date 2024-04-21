@@ -73,6 +73,9 @@ Since then, I have immersed myself in this vast world on a daily basis, seeking 
 		</table>
 	</div>
 </main>	
+<footer>
+	<img width='100%' src="https://capsule-render.vercel.app/api?type=waving&height=90&color=gradient&reversal=false&section=footer&textBg=false&fontAlign=0&fontAlignY=0&descAlign=0&descAlignY=0"/>
+</footer>
 
  <!--
 
