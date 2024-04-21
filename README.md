@@ -26,7 +26,7 @@
 			<td>
 				<h2><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="24px"/>  About me </h2>
 				<p>
-Hi, my name is Isaac and I'm 18 years old. My career in technology started early, as I had significant contact with this universe since childhood. I've always been fascinated by modern things like cell phones and computers. That's how I discovered my passion for IT and, later, for programming.
+Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">, my name is Isaac and I'm 18 years old. My career in technology started early, as I had significant contact with this universe since childhood. I've always been fascinated by modern things like cell phones and computers. That's how I discovered my passion for IT and, later, for programming.
 
 Since then, I have immersed myself in this vast world on a daily basis, seeking to improve my knowledge and dreaming of becoming a professional in the field. I'm looking for opportunities to start my professional journey as a young apprentice in this exciting field. Let's build the future together!
 				</p>
@@ -39,36 +39,28 @@ Since then, I have immersed myself in this vast world on a daily basis, seeking 
  	<table>
   	<tr>
 			<td>	
-				<h2><img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="20px"> Technologies </h2>
-				<img src="https://img.shields.io/badge/-HTML-0D1117?style=for-the-badge&logo=HTML5&logoColor=&labelColor=0D1117"/>
-				<img src="https://img.shields.io/badge/-CSS-0D1117?style=for-the-badge&logo=CSS3&logoColor=1572B6&labelColor=0D1117"/>
-				<img src="https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=JavaScript&logoColor=&labelColor=0D1117"/>
-				<img src="https://img.shields.io/badge/-PHP-0D1117?style=for-the-badge&logo=PHP&&logoColor=&labelColor=0D1117"/>
-				<img src="https://img.shields.io/badge/react-0D1117.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
-				<img src="https://img.shields.io/badge/-mysql-0D1117?style=for-the-badge&logo=mysql&labelColor=0D1117"/>
-				<img src="https://img.shields.io/badge/Node.js-0D1117?style=for-the-badge&logo=node.js&logoColor=#adff2f" />
-				<img src="https://img.shields.io/badge/TypeScript-0D1117?style=for-the-badge&logo=typescript&logoColor=1572B6" />
-				<img src="https://img.shields.io/badge/Postgresql-0D1117?style=for-the-badge&logo=postgresql&logoColor=1572B6" />
-				<img src="https://img.shields.io/badge/Next.JS-0D1117?style=for-the-badge&logo=next.js&logoColor=white" />
-				<img src="https://img.shields.io/badge/spring-0D1117?style=for-the-badge&logo=spring&logoColor=236DB33F" />
-    				<img src="https://img.shields.io/badge/tailwind-0D1117.svg?style=for-the-badge&logo=tailwindcss&logoColor=%2361DAFB"/>
+				<h2><img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="20px"> Technologies</h2>
+				<img src="https://img.shields.io/badge/-HTML-red?style=for-the-badge&logo=HTML5&logoColor=white"/>
+				<img src="https://img.shields.io/badge/-CSS-blue?style=for-the-badge&logo=CSS3&logoColor=white"/>
+				<img src="https://img.shields.io/badge/-JavaScript-yellow?style=for-the-badge&logo=JavaScript&logoColor=white"/>
+				<img src="https://img.shields.io/badge/-PHP-474A8A?style=for-the-badge&logo=PHP&&logoColor=white"/>
+				<img src="https://img.shields.io/badge/react-blue.svg?style=for-the-badge&logo=react&logoColor=white"/>
+				<img src="https://img.shields.io/badge/-mysql-orange?style=for-the-badge&logo=mysql&logoColor=white"/>
+				<img src="https://img.shields.io/badge/Node.js-green?style=for-the-badge&logo=node.js&logoColor=white" />
+				<img src="https://img.shields.io/badge/TypeScript-blue?style=for-the-badge&logo=typescript&logoColor=white" />
+				<img src="https://img.shields.io/badge/Next.JS-black?style=for-the-badge&logo=next.js&logoColor=white" />
+				<img src="https://img.shields.io/badge/Postgresql-blue?style=for-the-badge&logo=postgresql&logoColor=white" />
+				<img src="https://img.shields.io/badge/spring-green?style=for-the-badge&logo=spring&logoColor=white" />
+    				<img src="https://img.shields.io/badge/tailwind-blue.svg?style=for-the-badge&logo=tailwindcss&logoColor=white"/>
 			</td>
-		</tr>
-  	<table/>
-	<table align="center">
-		<tr> 
-			<td>
-				<h2><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width=24px>  Tools</h2>
-				<img src="https://img.shields.io/badge/Canva-0D1117?style=for-the-badge&logo=canva&logoColor=1572B6&labelColor=0D1117">
-				<img src="https://img.shields.io/badge/-GitHub-0D1117?style=for-the-badge&logo=github&logoColor=&labelColor=0D1117"/>
-				<img src="https://img.shields.io/badge/-Windows-0D1117?style=for-the-badge&logo=windows&labelColor=0D1117"/>
-				<img src="https://img.shields.io/badge/-Visual Studio Code-0D1117?style=for-the-badge&logo=visual-studio-code&logoColor=007ACC&labelColor=0D1117"/>
-				<img src="https://img.shields.io/badge/-Edge-0D1117?style=for-the-badge&logo=Microsoft-edge&&logoColor=007ACC&labelColor=0D1117"/>
-				<img src="https://img.shields.io/badge/-Git-0D1117?style=for-the-badge&logo=git&&logoColor=&labelColor=0D1117"/>
-    				<img src="https://img.shields.io/badge/-postman-0D1117?style=for-the-badge&logo=postman&&logoColor=&labelColor=0D1117"/>
-				<img src="https://img.shields.io/badge/-vite-0D1117?style=for-the-badge&logo=vite&&logoColor=&labelColor=0D1117"/>
-    				<img src="https://img.shields.io/badge/figma-0D1117.svg?style=for-the-badge&logo=figma&logoColor=%2361DAFB"/>
-			</td>
+   			<td>
+   				<h2><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width=24px> Tools</h2>
+				<img src="https://img.shields.io/badge/Canva-blue?style=for-the-badge&logo=canva&logoColor=white">
+				<img src="https://img.shields.io/badge/-GitHub-black?style=for-the-badge&logo=github&logoColor=white"/>
+				<img src="https://img.shields.io/badge/-Git-red?style=for-the-badge&logo=git&&logoColor=white"/>
+    				<img src="https://img.shields.io/badge/figma-blue?style=for-the-badge&logo=figma&logoColor=white"/>
+    				<img src="https://img.shields.io/badge/-postman-red?style=for-the-badge&logo=postman&&logoColor=white"/>
+      			</td>
 		</tr>
   	<table/>
 	<div name='Cobrinha'>
@@ -137,10 +129,6 @@ Esse projeto está sob a licença MIT.
  
 		ONDAS
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=ffc0cb&height=120&section=header"/>
-
-		SOCIAIS
-https://www.linkedin.com/in/isaac-lima-de-andrade-6a661524b/
-https://www.instagram.com/labrysinfo_student/
 
 
 		GIFs
