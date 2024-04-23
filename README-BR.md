@@ -61,6 +61,7 @@ Desde então, tenho mergulhado diariamente nesse vasto mundo, buscando aprimorar
 				<img src="https://img.shields.io/badge/-Git-red?style=for-the-badge&logo=git&&logoColor=white"/>
     				<img src="https://img.shields.io/badge/figma-blue?style=for-the-badge&logo=figma&logoColor=white"/>
     				<img src="https://img.shields.io/badge/-postman-red?style=for-the-badge&logo=postman&&logoColor=white"/>
+				<img src="https://img.shields.io/badge/-swagger-green?style=for-the-badge&logo=swagger&&logoColor=white"/>
       			</td>
 		</tr>
   	<table/>
