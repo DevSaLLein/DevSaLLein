@@ -34,8 +34,8 @@ Since then, I have immersed myself in this vast world on a daily basis, seeking 
 				<p>- I want a career as a Full-Stack developer with a specialty in UI/UX Designer </p>
 				<p>- I'm currently studying Software Engineering </p>
     				<p>- I prioritize quality over quantity </p>
-				<p>- I'm always open to learning new things!</p>
     				<p>- I think my projects should be accessible to everyone </p>
+				<p>- I'm always open to learning new things!</p>
 			</td>
 		</tr>
 	</table>
