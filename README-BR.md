@@ -13,7 +13,7 @@
 <h2></h2>
 <header> 
 	<div align="center">
-		<img src="https://readme-typing-svg.herokuapp.com/?color=ff1659&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+Dev_;Be+Welcome!+:%29_" />
+		<img src="https://readme-typing-svg.herokuapp.com/?color=ff1659&size=35&center=true&vCenter=true&width=1000&lines=Olá,+Dev_;Seja+Bem-Vindo(a)!+:%29_" />
 	</div>
 	<section align='left'>
 		<img src="https://komarev.com/ghpvc/?username=devsallein&label=Profile%20views&color=ff33ff&style=flat" alt="Followers" />
@@ -41,7 +41,7 @@ Desde então, tenho mergulhado diariamente neste vasto mundo, procurando melhora
  	<table>
   	<tr>
 			<td>	
-				<h2><img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="20px"> Technologies</h2>
+				<h2><img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="20px"> Tecnologias</h2>
 				<img src="https://img.shields.io/badge/-HTML-red?style=for-the-badge&logo=HTML5&logoColor=white"/>
 				<img src="https://img.shields.io/badge/-CSS-blue?style=for-the-badge&logo=CSS3&logoColor=white"/>
 				<img src="https://img.shields.io/badge/-JavaScript-yellow?style=for-the-badge&logo=JavaScript&logoColor=white"/>
@@ -57,7 +57,7 @@ Desde então, tenho mergulhado diariamente neste vasto mundo, procurando melhora
 				<img src="https://img.shields.io/badge/.NET-purple?style=for-the-badge&logo=dotnet&logoColor=white"/>
 			</td>
    			<td>
-   				<h2><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width=24px> Tools</h2>
+   				<h2><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width=24px> Ferramentas</h2>
 				<img src="https://img.shields.io/badge/Canva-blue?style=for-the-badge&logo=canva&logoColor=white">
 				<img src="https://img.shields.io/badge/-GitHub-black?style=for-the-badge&logo=github&logoColor=white"/>
 				<img src="https://img.shields.io/badge/-Git-red?style=for-the-badge&logo=git&&logoColor=white"/>
