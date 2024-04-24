@@ -29,11 +29,13 @@
 					
 Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="20px">, my name is Isaac and I'm 18 years old. My career in technology started early, as I had significant contact with this universe since childhood. I've always been fascinated by modern things like cell phones and computers. That's how I discovered my passion for IT and, later, for programming.
 
-Since then, I have immersed myself in this vast world on a daily basis, seeking to improve my knowledge and dreaming of becoming a professional in the field. I'm looking for opportunities to start my professional journey as a young apprentice in this exciting field. Let's build the future together!
+Since then, I have immersed myself in this vast world on a daily basis, seeking to improve my knowledge and dreaming of becoming a professional in the field. I'm a computer technician and I'm currently studying for a degree in software engineering. Let's build the future together!
 				</p>
-				<p>- I want a career as a Full-Stack developer </p>
+				<p>- I want a career as a Full-Stack developer with a specialty in UI/UX Designer </p>
 				<p>- I'm currently studying Software Engineering </p>
+    				<p>- I prioritize quality over quantity </p>
 				<p>- I'm always open to learning new things!</p>
+    				<p>- I think my projects should be accessible to everyone </p>
 			</td>
 		</tr>
 	</table>
