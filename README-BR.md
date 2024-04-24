@@ -28,11 +28,13 @@
 				<p>
 Olá <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="20px">, o meu nome é Isaac e tenho 18 anos. A minha carreira na área da tecnologia começou cedo, pois tive um contacto significativo com este universo desde a infância. Sempre fui fascinado por coisas modernas como telemóveis e computadores. Foi assim que descobri a minha paixão pela informática e, mais tarde, pela programação.
 
-Desde então, tenho mergulhado diariamente nesse vasto mundo, buscando aprimorar meus conhecimentos e sonhando em me tornar um profissional da área. Estou à procura de oportunidades para iniciar o meu percurso profissional como jovem aprendiz nesta área apaixonante. Vamos construir o futuro juntos!
+Desde então, tenho mergulhado diariamente neste vasto mundo, procurando melhorar os meus conhecimentos e sonhando em tornar-me um profissional da área. Sou técnico de informática e estou atualmente cursando Engenharia de Software. Vamos construir o futuro juntos!
 				</p>
-				<p>- Quero uma carreira como programador Full-Stack </p>
+				<p>- Pretendo uma carreira como programador Full-Stack com uma especialidade em UI/UX Designer </p>
 				<p>- Estou atualmente cursando Engenharia de Software </p>
-				<p>- Estou sempre aberto a aprender coisas novas!</p>
+    				<p>- Priorizo qualidade ao invés de quantidade </p>
+				<p>- Possuo a mentalidade que meus projetos devem ser acessíveis para todos </p>
+				<p>- Estou sempre aberto a aprender coisas novas! </p>
 			</td>
 		</tr>
 	</table>
