@@ -24,7 +24,7 @@
 	<table>
 		<tr> 
 			<td>
-				<h2><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="24px"/>  Who am I ? </h2>
+				<h2><img src="https://user-images.githubusercontent.com/74038190/218265814-3084a4ba-809c-4135-afc0-8685d0f634b3.gif" width="50px"/> Who am I ? </h2>
 				<p>
 					
 Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="20px">, my name is Isaac and I'm 18 years old. My career in technology started early, as I had significant contact with this universe since childhood. I've always been fascinated by modern things like cell phones and computers. That's how I discovered my passion for IT and, later, for programming.
@@ -42,7 +42,7 @@ Since then, I have immersed myself in this vast world on a daily basis, seeking 
  	<table>
   	<tr>
 			<td>	
-				<h2><img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="20px"> Technologies</h2>
+				<h2> <img src="https://user-images.githubusercontent.com/74038190/216655813-c9147cb2-cfee-4955-b591-52cac08f1f60.gif" width="35px"/> Technologies </h2>
 				<img src="https://img.shields.io/badge/-HTML-red?style=for-the-badge&logo=HTML5&logoColor=white"/>
 				<img src="https://img.shields.io/badge/-CSS-blue?style=for-the-badge&logo=CSS3&logoColor=white"/>
 				<img src="https://img.shields.io/badge/-JavaScript-yellow?style=for-the-badge&logo=JavaScript&logoColor=white"/>
@@ -59,7 +59,7 @@ Since then, I have immersed myself in this vast world on a daily basis, seeking 
 			</td>
    			<td>
    				<h2>
-       					<img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width=24px> Tools
+       					<img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width="35px"> Tools
 	    			</h2>
 				<img src="https://img.shields.io/badge/Canva-blue?style=for-the-badge&logo=canva&logoColor=white">
 				<img src="https://img.shields.io/badge/-GitHub-black?style=for-the-badge&logo=github&logoColor=white"/>
@@ -99,9 +99,14 @@ ondas
 
 	<blockquote>
 
+ <img src="https://user-images.githubusercontent.com/74038190/216655813-c9147cb2-cfee-4955-b591-52cac08f1f60.gif" width="30px"/>
+ <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25px">
+ <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="24px"/>
+
  	README - Concluido
 
   	<img src="https://img.shields.io/badge/%20STATUS%20-%20CONCLU%C3%8DDO%20%20%20%20-44CC1?style=flat-square"/>
+   
 
 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Man%20Technologist%20Light%20Skin%20Tone.png" alt="Man Technologist Light Skin Tone" width="25" height="25" />
 
