@@ -24,7 +24,7 @@
 	<table>
 		<tr> 
 			<td>
-				<h2><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="24px"/>  Who I am ? </h2>
+				<h2><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="24px"/>  Who am I ? </h2>
 				<p>
 					
 Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="20px">, my name is Isaac and I'm 18 years old. My career in technology started early, as I had significant contact with this universe since childhood. I've always been fascinated by modern things like cell phones and computers. That's how I discovered my passion for IT and, later, for programming.
