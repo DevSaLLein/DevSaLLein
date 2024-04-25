@@ -58,7 +58,9 @@ Since then, I have immersed myself in this vast world on a daily basis, seeking 
 				<img src="https://img.shields.io/badge/.NET-purple?style=for-the-badge&logo=dotnet&logoColor=white"/>
 			</td>
    			<td>
-   				<h2><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width=24px> Tools</h2>
+   				<h2>
+       					<img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width=24px> Tools
+	    			</h2>
 				<img src="https://img.shields.io/badge/Canva-blue?style=for-the-badge&logo=canva&logoColor=white">
 				<img src="https://img.shields.io/badge/-GitHub-black?style=for-the-badge&logo=github&logoColor=white"/>
 				<img src="https://img.shields.io/badge/-Git-red?style=for-the-badge&logo=git&&logoColor=white"/>
@@ -101,6 +103,7 @@ ondas
 
   	<img src="https://img.shields.io/badge/%20STATUS%20-%20CONCLU%C3%8DDO%20%20%20%20-44CC1?style=flat-square"/>
 
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Man%20Technologist%20Light%20Skin%20Tone.png" alt="Man Technologist Light Skin Tone" width="25" height="25" />
 
  		GRAFICOS 
 		<img height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevSaLLein&layout=compact&hide_border=true&theme=dracula"/>  
