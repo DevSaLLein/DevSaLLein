@@ -24,7 +24,7 @@
 	<table>
 		<tr> 
 			<td>
-				<h2><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/>Sobre mim</h2>
+				<h2><img src="https://user-images.githubusercontent.com/74038190/218265814-3084a4ba-809c-4135-afc0-8685d0f634b3.gif" width="50px"/> Sobre mim</h2>
 				<p>
 Olá <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="20px">, o meu nome é Isaac e tenho 18 anos. A minha carreira na área da tecnologia começou cedo, pois tive um contacto significativo com este universo desde a infância. Sempre fui fascinado por coisas modernas como telemóveis e computadores. Foi assim que descobri a minha paixão pela informática e, mais tarde, pela programação.
 
@@ -41,7 +41,7 @@ Desde então, tenho mergulhado diariamente neste vasto mundo, procurando melhora
  	<table>
   	<tr>
 			<td>	
-				<h2><img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="20px"> Tecnologias</h2>
+				<h2><img src="https://user-images.githubusercontent.com/74038190/216655813-c9147cb2-cfee-4955-b591-52cac08f1f60.gif" width="35px"/> Tecnologias</h2>
 				<img src="https://img.shields.io/badge/-HTML-red?style=for-the-badge&logo=HTML5&logoColor=white"/>
 				<img src="https://img.shields.io/badge/-CSS-blue?style=for-the-badge&logo=CSS3&logoColor=white"/>
 				<img src="https://img.shields.io/badge/-JavaScript-yellow?style=for-the-badge&logo=JavaScript&logoColor=white"/>
@@ -57,7 +57,7 @@ Desde então, tenho mergulhado diariamente neste vasto mundo, procurando melhora
 				<img src="https://img.shields.io/badge/.NET-purple?style=for-the-badge&logo=dotnet&logoColor=white"/>
 			</td>
    			<td>
-   				<h2><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width=24px> Ferramentas</h2>
+   				<h2><img src= "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width="35px"> Ferramentas</h2>
 				<img src="https://img.shields.io/badge/Canva-blue?style=for-the-badge&logo=canva&logoColor=white">
 				<img src="https://img.shields.io/badge/-GitHub-black?style=for-the-badge&logo=github&logoColor=white"/>
 				<img src="https://img.shields.io/badge/-Git-red?style=for-the-badge&logo=git&&logoColor=white"/>
