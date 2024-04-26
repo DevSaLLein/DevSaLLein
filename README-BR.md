@@ -42,19 +42,14 @@ Desde então, tenho mergulhado diariamente neste vasto mundo, procurando melhora
   	<tr>
 			<td>	
 				<h2><img src="https://user-images.githubusercontent.com/74038190/216655813-c9147cb2-cfee-4955-b591-52cac08f1f60.gif" width="35px"/> Tecnologias</h2>
-				<img src="https://img.shields.io/badge/-HTML-red?style=for-the-badge&logo=HTML5&logoColor=white"/>
-				<img src="https://img.shields.io/badge/-CSS-blue?style=for-the-badge&logo=CSS3&logoColor=white"/>
-				<img src="https://img.shields.io/badge/-JavaScript-yellow?style=for-the-badge&logo=JavaScript&logoColor=white"/>
-				<img src="https://img.shields.io/badge/-PHP-474A8A?style=for-the-badge&logo=PHP&&logoColor=white"/>
 				<img src="https://img.shields.io/badge/react-blue.svg?style=for-the-badge&logo=react&logoColor=white"/>
-				<img src="https://img.shields.io/badge/-mysql-orange?style=for-the-badge&logo=mysql&logoColor=white"/>
-				<img src="https://img.shields.io/badge/Node.js-green?style=for-the-badge&logo=node.js&logoColor=white" />
-				<img src="https://img.shields.io/badge/TypeScript-blue?style=for-the-badge&logo=typescript&logoColor=white" />
-				<img src="https://img.shields.io/badge/Next.JS-black?style=for-the-badge&logo=next.js&logoColor=white" />
-				<img src="https://img.shields.io/badge/Postgresql-blue?style=for-the-badge&logo=postgresql&logoColor=white" />
-				<img src="https://img.shields.io/badge/spring-green?style=for-the-badge&logo=spring&logoColor=white" />
+    				<img src="https://img.shields.io/badge/AngularJS-red?style=for-the-badge&logo=angular&logoColor=white"/>
     				<img src="https://img.shields.io/badge/tailwind-blue.svg?style=for-the-badge&logo=tailwindcss&logoColor=white"/>
-				<img src="https://img.shields.io/badge/.NET-purple?style=for-the-badge&logo=dotnet&logoColor=white"/>
+				<img src="https://img.shields.io/badge/TypeScript-blue?style=for-the-badge&logo=typescript&logoColor=white" />
+				<img src="https://img.shields.io/badge/spring-green?style=for-the-badge&logo=spring&logoColor=white" />
+				<img src="https://img.shields.io/badge/.NET-purple?style=for-the-badge&logo=dotnet&logoColor=white"/> 
+				<img src="https://img.shields.io/badge/-mysql-orange?style=for-the-badge&logo=mysql&logoColor=white"/>
+				<img src="https://img.shields.io/badge/Postgresql-blue?style=for-the-badge&logo=postgresql&logoColor=white" />
 			</td>
    			<td>
    				<h2><img src= "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width="35px"> Ferramentas</h2>
