@@ -62,6 +62,7 @@ Since then, I have immersed myself in this vast world on a daily basis, seeking 
     				<img src="https://img.shields.io/badge/figma-blue?style=for-the-badge&logo=figma&logoColor=white"/>
     				<img src="https://img.shields.io/badge/-postman-red?style=for-the-badge&logo=postman&&logoColor=white"/>
 				<img src="https://img.shields.io/badge/-swagger-green?style=for-the-badge&logo=swagger&&logoColor=white"/>
+    				<img src="https://img.shields.io/badge/-docker-blue?style=for-the-badge&logo=docker&&logoColor=white"/>
       			</td>
 		</tr>
   	<table/>
