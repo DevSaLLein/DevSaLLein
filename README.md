@@ -36,6 +36,11 @@ Since then, I have immersed myself in this vast world on a daily basis, seeking 
     				<p>- I prioritize quality over quantity </p>
     				<p>- I think my projects should be accessible to everyone </p>
 				<p>- I'm always open to learning new things!</p>
+				<h2>
+    <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Hundred%20Points.png" alt="Hundred Points" width="35" height="35" />
+    					Bootcamps & Badges
+	 			</h2>
+    				[<img src="https://hermes.dio.me/tracks/1fd7a7da-ba42-417c-a4de-2f0c2f0622b6.png" height="200px"/>](https://www.dio.me/bootcamp/coding-future-avanade-net-developer)
 			</td>
 		</tr>
 	</table>
@@ -110,5 +115,6 @@ ondas
 		<img height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevSaLLein&layout=compact&hide_border=true&theme=dracula"/>  
   			<img height="200px" src="https://github-readme-streak-stats.herokuapp.com/?user=DevSaLLein&layout=compact&hide_border=true&&theme=dracula"/>
 		<img height="100%" src="https://github-readme-stats.vercel.app/api?username=DevSaLLein&layout=compact&hide_border=true&hide_title=true&theme=dracula"/> 
+
 
 -->
