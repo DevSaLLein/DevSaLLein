@@ -35,6 +35,11 @@ Desde então, tenho mergulhado diariamente neste vasto mundo, procurando melhora
     				<p>- Priorizo qualidade ao invés de quantidade </p>
 				<p>- Possuo a mentalidade que meus projetos devem ser acessíveis para todos </p>
 				<p>- Estou sempre aberto a aprender coisas novas! </p>
+    				<h2>
+    <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Hundred%20Points.png" alt="Hundred Points" width="35" height="35" />
+    					Bootcamps & Badges
+	 			</h2>
+    				[<img src="https://hermes.dio.me/tracks/1fd7a7da-ba42-417c-a4de-2f0c2f0622b6.png" height="200px"/>](https://www.dio.me/bootcamp/coding-future-avanade-net-developer)
 			</td>
 		</tr>
 	</table>
