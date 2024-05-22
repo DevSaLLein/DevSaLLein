@@ -41,7 +41,7 @@ Since then, I have immersed myself in this vast world on a daily basis, seeking 
     					Bootcamps & Badges
 	 			</h2>
     				[<img src="https://hermes.dio.me/tracks/1fd7a7da-ba42-417c-a4de-2f0c2f0622b6.png" height="200px"/>](https://www.dio.me/bootcamp/coding-future-avanade-net-developer)
-				[<img src="https://hermes.dio.me/tracks/0cb208b8-6bf4-454b-9b12-9e9418ad0356.png" height="140px">](https://www.dio.me/bootcamp/bootcamp-nexa-fundamentos-de-ia-generativa-e-claude-3)
+    				[<img src="https://hermes.dio.me/tracks/be43294e-4b68-43b0-9f03-d4221f293c45.png" height="190px">]()
 			</td>
 		</tr>
 	</table>
@@ -116,6 +116,9 @@ ondas
 		<img height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevSaLLein&layout=compact&hide_border=true&theme=dracula"/>  
   			<img height="200px" src="https://github-readme-streak-stats.herokuapp.com/?user=DevSaLLein&layout=compact&hide_border=true&&theme=dracula"/>
 		<img height="100%" src="https://github-readme-stats.vercel.app/api?username=DevSaLLein&layout=compact&hide_border=true&hide_title=true&theme=dracula"/> 
+
+
+  [<img src="https://hermes.dio.me/tracks/0cb208b8-6bf4-454b-9b12-9e9418ad0356.png" height="150px">](https://www.dio.me/bootcamp/bootcamp-nexa-fundamentos-de-ia-generativa-e-claude-3)
 
 
 -->
