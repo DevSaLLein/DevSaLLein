@@ -41,6 +41,7 @@ Since then, I have immersed myself in this vast world on a daily basis, seeking 
     					Bootcamps & Badges
 	 			</h2>
     				[<img src="https://hermes.dio.me/tracks/1fd7a7da-ba42-417c-a4de-2f0c2f0622b6.png" height="200px"/>](https://www.dio.me/bootcamp/coding-future-avanade-net-developer)
+				[<img src="https://hermes.dio.me/tracks/0cb208b8-6bf4-454b-9b12-9e9418ad0356.png" height="140px">](https://www.dio.me/bootcamp/bootcamp-nexa-fundamentos-de-ia-generativa-e-claude-3)
 			</td>
 		</tr>
 	</table>
