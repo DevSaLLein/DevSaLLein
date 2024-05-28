@@ -35,11 +35,6 @@ Desde então, tenho mergulhado diariamente neste vasto mundo, procurando melhora
     				<p>- Priorizo qualidade ao invés de quantidade </p>
 				<p>- Possuo a mentalidade que meus projetos devem ser acessíveis para todos </p>
 				<p>- Estou sempre aberto a aprender coisas novas! </p>
-    				<h2>
-    <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Hundred%20Points.png" alt="Hundred Points" width="35" height="35" />
-    					Bootcamps & Badges
-	 			</h2>
-    				[<img src="https://hermes.dio.me/tracks/1fd7a7da-ba42-417c-a4de-2f0c2f0622b6.png" height="200px"/>](https://www.dio.me/bootcamp/coding-future-avanade-net-developer)
 			</td>
 		</tr>
 	</table>
@@ -48,7 +43,7 @@ Desde então, tenho mergulhado diariamente neste vasto mundo, procurando melhora
 			<td>	
 				<h2><img src="https://user-images.githubusercontent.com/74038190/216655813-c9147cb2-cfee-4955-b591-52cac08f1f60.gif" width="35px"/> Tecnologias</h2>
 				<img src="https://img.shields.io/badge/react-blue.svg?style=for-the-badge&logo=react&logoColor=white"/>
-    				<img src="https://img.shields.io/badge/Angular-red?style=for-the-badge&logo=angular&logoColor=white"/>
+    				<img src="https://img.shields.io/badge/NextJS-black?style=for-the-badge&logo=next.js&logoColor=white"/>
     				<img src="https://img.shields.io/badge/tailwind-blue.svg?style=for-the-badge&logo=tailwindcss&logoColor=white"/>
 				<img src="https://img.shields.io/badge/TypeScript-blue?style=for-the-badge&logo=typescript&logoColor=white" />
 				<img src="https://img.shields.io/badge/spring-green?style=for-the-badge&logo=spring&logoColor=white" />
