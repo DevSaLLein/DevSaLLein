@@ -66,15 +66,13 @@ Since then, I have immersed myself in this vast world on a daily basis, seeking 
       			</td>
 		</tr>
   	<table/>
-	<div name='Cobrinha'>
-		<table align='center'>
-  			<tr>
-                              <td>
-                                   <img src="https://github.com/DevSaLLein/DevSaLLein/blob/output/github-contribution-grid-snake-dark.svg" width="100%" >
-                              </td>
-                        </tr>
-		</table>
-	</div>
+	<table align='center'>
+  		<tr>
+                	<td>
+                        	<img src="https://github.com/DevSaLLein/DevSaLLein/blob/output/github-contribution-grid-snake-dark.svg" width="100%" >
+                        </td>
+                </tr>
+	</table>
 </main>	
 
  <!--
