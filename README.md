@@ -13,7 +13,7 @@
 <h2></h2>
 <header> 
 	<div align="center">
-		<img src="https://readme-typing-svg.herokuapp.com/?color=ff1659&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+Dev_;Be+Welcome!+:%29_" />
+		<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=500&size=40&duration=2000&pause=500&color=FFFFFF&center=true&vCenter=true&random=false&width=435&lines=Hello%2C+Dev_;Be+Welcome+%3A%29_" alt="Typing SVG" />
 	</div>
 	<section align='left'>
 		<img src="https://komarev.com/ghpvc/?username=devsallein&label=Profile%20views&color=ff33ff&style=flat" alt="Followers" />
