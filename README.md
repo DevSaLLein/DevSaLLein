@@ -36,12 +36,6 @@ Since then, I have immersed myself in this vast world on a daily basis, seeking 
     				<p>- I prioritize quality over quantity </p>
     				<p>- I think my projects should be accessible to everyone </p>
 				<p>- I'm always open to learning new things!</p>
-				<h2>
-    <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Hundred%20Points.png" alt="Hundred Points" width="35" height="35" />
-    					Bootcamps & Badges
-	 			</h2>
-    				[<img src="https://hermes.dio.me/tracks/1fd7a7da-ba42-417c-a4de-2f0c2f0622b6.png" height="200px"/>](https://www.dio.me/bootcamp/coding-future-avanade-net-developer)
-    				[<img src="https://hermes.dio.me/tracks/be43294e-4b68-43b0-9f03-d4221f293c45.png" height="190px">]()
 			</td>
 		</tr>
 	</table>
@@ -119,6 +113,16 @@ ondas
 
 
   [<img src="https://hermes.dio.me/tracks/0cb208b8-6bf4-454b-9b12-9e9418ad0356.png" height="150px">](https://www.dio.me/bootcamp/bootcamp-nexa-fundamentos-de-ia-generativa-e-claude-3)
+
+
+Bootcamps 				
+<h2>
+    <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Hundred%20Points.png" alt="Hundred Points" width="35" height="35" />
+    					Bootcamps & Badges
+	 			</h2>
+    				[<img src="https://hermes.dio.me/tracks/1fd7a7da-ba42-417c-a4de-2f0c2f0622b6.png" height="200px"/>](https://www.dio.me/bootcamp/coding-future-avanade-net-developer)
+    				[<img src="https://hermes.dio.me/tracks/be43294e-4b68-43b0-9f03-d4221f293c45.png" height="190px">]()
+
 
 
 -->
