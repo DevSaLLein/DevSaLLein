@@ -24,7 +24,7 @@
 	<table>
 		<tr> 
 			<td>
-				<h2><img src="https://user-images.githubusercontent.com/74038190/218265814-3084a4ba-809c-4135-afc0-8685d0f634b3.gif" width="50px"/> Sobre mim</h2>
+				<h2><img src="https://user-images.githubusercontent.com/74038190/218265814-3084a4ba-809c-4135-afc0-8685d0f634b3.gif" width="50px"/> Quem sou eu?</h2>
 				<p>
 Olá <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="20px">, o meu nome é Isaac e tenho 18 anos. A minha carreira na área da tecnologia começou cedo, pois tive um contacto significativo com este universo desde a infância. Sempre fui fascinado por coisas modernas como telemóveis e computadores. Foi assim que descobri a minha paixão pela informática e, mais tarde, pela programação.
 
@@ -41,10 +41,11 @@ Desde então, tenho mergulhado diariamente neste vasto mundo, procurando melhora
  	<table>
   	<tr>
 			<td>	
-				<h2><img src="https://user-images.githubusercontent.com/74038190/216655813-c9147cb2-cfee-4955-b591-52cac08f1f60.gif" width="35px"/> Tecnologias</h2>
+				<h2> <img src="https://user-images.githubusercontent.com/74038190/216655813-c9147cb2-cfee-4955-b591-52cac08f1f60.gif" width="35px"/> Technologies </h2>
 				<img src="https://img.shields.io/badge/react-blue.svg?style=for-the-badge&logo=react&logoColor=white"/>
-    				<img src="https://img.shields.io/badge/NextJS-black?style=for-the-badge&logo=next.js&logoColor=white"/>
+    				<img src="https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js&logoColor=white"/>
     				<img src="https://img.shields.io/badge/tailwind-blue.svg?style=for-the-badge&logo=tailwindcss&logoColor=white"/>
+				<img src="https://img.shields.io/badge/sass-hotpink.svg?style=for-the-badge&logo=sass&logoColor=white"/>
 				<img src="https://img.shields.io/badge/TypeScript-blue?style=for-the-badge&logo=typescript&logoColor=white" />
 				<img src="https://img.shields.io/badge/spring-green?style=for-the-badge&logo=spring&logoColor=white" />
 				<img src="https://img.shields.io/badge/.NET-purple?style=for-the-badge&logo=dotnet&logoColor=white"/> 
