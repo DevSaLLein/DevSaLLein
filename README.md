@@ -12,11 +12,9 @@
 </table>
 <h2></h2>
 <header> 
-	<br>
 	<div>
-		<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=500&size=55&duration=3000&pause=700&color=e6edea&center=true&vCenter=true&random=false&width=1000&lines=Hello%2C+Dev_;Be+Welcome+%3A%29_" alt="Typing SVG"/>
+		<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=500&size=55&duration=3000&pause=700&color=e6edea&center=true&vCenter=true&random=false&width=1000&height=85&lines=Hello%2C+Dev_;Be+Welcome+%3A%29_" alt="Typing SVG"/>
 	</div>
-	<br>
 	<section align='left'>
 		<img src="https://komarev.com/ghpvc/?username=devsallein&label=Profile%20views&color=ff33ff&style=flat" alt="Followers" />
 		<img src="https://img.shields.io/github/stars/DevSaLLein?affiliations=OWNER%2CCOLLABORATOR&color=ff33ff&style=flat" alt="Stars"/>
