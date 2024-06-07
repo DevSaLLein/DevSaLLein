@@ -47,6 +47,7 @@ Since then, I have immersed myself in this vast world on a daily basis, seeking 
     				<img src="https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js&logoColor=white"/>
     				<img src="https://img.shields.io/badge/tailwind-blue.svg?style=for-the-badge&logo=tailwindcss&logoColor=white"/>
 				<img src="https://img.shields.io/badge/sass-hotpink.svg?style=for-the-badge&logo=sass&logoColor=white"/>
+    				<img src="https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript&logoColor=white" />
 				<img src="https://img.shields.io/badge/TypeScript-blue?style=for-the-badge&logo=typescript&logoColor=white" />
 				<img src="https://img.shields.io/badge/spring-green?style=for-the-badge&logo=spring&logoColor=white" />
 				<img src="https://img.shields.io/badge/.NET-purple?style=for-the-badge&logo=dotnet&logoColor=white"/> 
