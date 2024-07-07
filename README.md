@@ -51,7 +51,7 @@ Since then, I have immersed myself in this vast world on a daily basis, seeking 
 				<img src="https://img.shields.io/badge/TypeScript-blue?style=for-the-badge&logo=typescript&logoColor=white" />
 				<img src="https://img.shields.io/badge/spring-green?style=for-the-badge&logo=spring&logoColor=white" />
 				<img src="https://img.shields.io/badge/.NET-purple?style=for-the-badge&logo=dotnet&logoColor=white"/>
-    				<img src="https://img.shields.io/badge/scharp-purple?style=for-the-badge&logo=csharp&logoColor=white"/>
+    				<img src="https://img.shields.io/badge/csharp-purple?style=for-the-badge&logo=c&logoColor=white"/>
 				<img src="https://img.shields.io/badge/-mysql-orange?style=for-the-badge&logo=mysql&logoColor=white"/>
 				<img src="https://img.shields.io/badge/Postgresql-blue?style=for-the-badge&logo=postgresql&logoColor=white" />
 			</td>
