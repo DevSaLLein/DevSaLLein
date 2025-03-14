@@ -57,7 +57,7 @@ Since then, I have immersed myself in this vast world on a daily basis, seeking 
 			</td>
    			<td>
    				<h2>
-       					<img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width="35px"> Tools
+       					<img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="24px"/> Tools
 	    			</h2>
 				<img src="https://img.shields.io/badge/Canva-blue?style=for-the-badge&logo=canva&logoColor=white">
 				<img src="https://img.shields.io/badge/-GitHub-black?style=for-the-badge&logo=github&logoColor=white"/>
