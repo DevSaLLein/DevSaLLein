@@ -24,48 +24,38 @@
 	<table>
 		<tr> 
 			<td>
-				<h2><img src="https://user-images.githubusercontent.com/74038190/218265814-3084a4ba-809c-4135-afc0-8685d0f634b3.gif" width="50px"/> Who am I ? </h2>
+				<h1><img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="50px"> Hey there! I'm Isaac <img src="https://user-images.githubusercontent.com/74038190/218265814-3084a4ba-809c-4135-afc0-8685d0f634b3.gif" width="50px"/>  </h1> 
 				<p>
 					
-Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="20px">, my name is Isaac and I'm 18 years old. My career in technology started early, as I had significant contact with this universe since childhood. I've always been fascinated by modern things like cell phones and computers. That's how I discovered my passion for IT and, later, for programming.
+I'm an 18-year-old tech enthusiast who has been immersed in the world of technology since childhood. My fascination with modern devices like computers and smartphones led me to discover my passion for IT and, later, for programming.
 
-Since then, I have immersed myself in this vast world on a daily basis, seeking to improve my knowledge and dreaming of becoming a professional in the field. I'm a computer technician and I'm currently studying for a degree in software engineering. Let's build the future together!
-				</p>
-				<p>- I want a career as a Full-Stack developer with a specialty in UI/UX Designer </p>
-				<p>- I'm currently studying Software Engineering </p>
-    				<p>- I prioritize quality over quantity </p>
-    				<p>- I think my projects should be accessible to everyone </p>
-				<p>- I'm always open to learning new things!</p>
+Since then, I've been diving deeper into this vast field every day, continuously expanding my knowledge and striving to become a top-tier professional. I'm a certified computer technician and currently pursuing Web Design at Faculdade de Informática e ADM Paulista (100% ProUni) and Software Engineering at Jala University, an American institution.<br>
+
+<h2>🚀 My Goals & Values</h2> 
+    💻 Aspiring Full-Stack Developer with a passion for UI/UX Design <br><br>
+    🎓 Studying Web Design and Software Engineering <br><br>
+    🎯 Prioritizing quality over quantity in my projects <br><br>
+    🌍 Committed to making my projects accessible to everyone <br><br>
+    📚 Always eager to learn new things and grow <br><br>
+Let's build the future together! 🚀
 			</td>
 		</tr>
 	</table>
  	<table>
   	<tr>
 			<td>	
-				<h2> <img src="https://user-images.githubusercontent.com/74038190/216655813-c9147cb2-cfee-4955-b591-52cac08f1f60.gif" width="35px"/> Technologies </h2>
-				<img src="https://img.shields.io/badge/react-blue.svg?style=for-the-badge&logo=react&logoColor=white"/>
-    				<img src="https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js&logoColor=white"/>
-    				<img src="https://img.shields.io/badge/tailwind-blue.svg?style=for-the-badge&logo=tailwindcss&logoColor=white"/>
-				<img src="https://img.shields.io/badge/sass-hotpink.svg?style=for-the-badge&logo=sass&logoColor=white"/>
-    				<img src="https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript&logoColor=white" />
-				<img src="https://img.shields.io/badge/TypeScript-blue?style=for-the-badge&logo=typescript&logoColor=white" />
-				<img src="https://img.shields.io/badge/spring-green?style=for-the-badge&logo=spring&logoColor=white" />
-				<img src="https://img.shields.io/badge/.NET-purple?style=for-the-badge&logo=dotnet&logoColor=white"/>
-    				<img src="https://img.shields.io/badge/csharp-purple?style=for-the-badge&logo=c&logoColor=white"/>
-				<img src="https://img.shields.io/badge/-mysql-orange?style=for-the-badge&logo=mysql&logoColor=white"/>
-				<img src="https://img.shields.io/badge/Postgresql-blue?style=for-the-badge&logo=postgresql&logoColor=white" />
+				<h2> <img src="https://user-images.githubusercontent.com/74038190/216655813-c9147cb2-cfee-4955-b591-52cac08f1f60.gif" width="35px"/> Front-End </h2>
+    				<img src="https://skillicons.dev/icons?i=html,css,javascript,typescript,react,nextjs,tailwind,swift&perline=12" />
+    				<h2> <img src="https://user-images.githubusercontent.com/74038190/216655813-c9147cb2-cfee-4955-b591-52cac08f1f60.gif" width="35px"/> Back-End </h2>
+				<img src="https://skillicons.dev/icons?i=c,cs,dotnet,java,spring,swift&perline=12" />
 			</td>
    			<td>
+				<h2> <img src="https://user-images.githubusercontent.com/74038190/216655813-c9147cb2-cfee-4955-b591-52cac08f1f60.gif" width="35px"/> Data Base </h2>
+				<img src="https://skillicons.dev/icons?i=postgresql,mysql&perline=12" />
    				<h2>
        					<img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="24px"/> Tools
 	    			</h2>
-				<img src="https://img.shields.io/badge/Canva-blue?style=for-the-badge&logo=canva&logoColor=white">
-				<img src="https://img.shields.io/badge/-GitHub-black?style=for-the-badge&logo=github&logoColor=white"/>
-				<img src="https://img.shields.io/badge/-Git-red?style=for-the-badge&logo=git&&logoColor=white"/>
-    				<img src="https://img.shields.io/badge/figma-blue?style=for-the-badge&logo=figma&logoColor=white"/>
-    				<img src="https://img.shields.io/badge/-postman-red?style=for-the-badge&logo=postman&&logoColor=white"/>
-				<img src="https://img.shields.io/badge/-swagger-green?style=for-the-badge&logo=swagger&&logoColor=white"/>
-    				<img src="https://img.shields.io/badge/-docker-blue?style=for-the-badge&logo=docker&&logoColor=white"/>
+				<img src="https://skillicons.dev/icons?i=git,github,figma,postman,docker,gitlab,aws,linux,neovim,windows&perline=12" />
       			</td>
 		</tr>
   	<table/>
@@ -110,6 +100,39 @@ ondas
 Bootcamps 				
 <h2>
     <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Hundred%20Points.png" alt="Hundred Points" width="35" height="35" />
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    <img src="https://img.shields.io/badge/react-blue.svg?style=for-the-badge&logo=react&logoColor=white"/>
+    				<img src="https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js&logoColor=white"/>
+    				<img src="https://img.shields.io/badge/tailwind-blue.svg?style=for-the-badge&logo=tailwindcss&logoColor=white"/>
+				<img src="https://img.shields.io/badge/sass-hotpink.svg?style=for-the-badge&logo=sass&logoColor=white"/>
+    				<img src="https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript&logoColor=white" />
+				<img src="https://img.shields.io/badge/TypeScript-blue?style=for-the-badge&logo=typescript&logoColor=white" />
+				<img src="https://img.shields.io/badge/spring-green?style=for-the-badge&logo=spring&logoColor=white" />
+				<img src="https://img.shields.io/badge/.NET-purple?style=for-the-badge&logo=dotnet&logoColor=white"/>
+    				<img src="https://img.shields.io/badge/csharp-purple?style=for-the-badge&logo=c&logoColor=white"/>
+				<img src="https://img.shields.io/badge/-mysql-orange?style=for-the-badge&logo=mysql&logoColor=white"/>
+				<img src="https://img.shields.io/badge/Postgresql-blue?style=for-the-badge&logo=postgresql&logoColor=white" />
+    <img src="https://img.shields.io/badge/Canva-blue?style=for-the-badge&logo=canva&logoColor=white">
+				<img src="https://img.shields.io/badge/-GitHub-black?style=for-the-badge&logo=github&logoColor=white"/>
+				<img src="https://img.shields.io/badge/-Git-red?style=for-the-badge&logo=git&&logoColor=white"/>
+    				<img src="https://img.shields.io/badge/figma-blue?style=for-the-badge&logo=figma&logoColor=white"/>
+    				<img src="https://img.shields.io/badge/-postman-red?style=for-the-badge&logo=postman&&logoColor=white"/>
+				<img src="https://img.shields.io/badge/-swagger-green?style=for-the-badge&logo=swagger&&logoColor=white"/>
+    				<img src="https://img.shields.io/badge/-docker-blue?style=for-the-badge&logo=docker&&logoColor=white"/>
     					Bootcamps & Badges
 	 			</h2>
     				[<img src="https://hermes.dio.me/tracks/1fd7a7da-ba42-417c-a4de-2f0c2f0622b6.png" height="200px"/>](https://www.dio.me/bootcamp/coding-future-avanade-net-developer)
