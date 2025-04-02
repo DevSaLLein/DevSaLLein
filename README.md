@@ -55,7 +55,7 @@ Let's build the future together! 🚀
    				<h2>
        					<img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="24px"/> Tools
 	    			</h2>
-				<img src="https://skillicons.dev/icons?i=git,github,figma,postman,docker,gitlab,aws,linux,neovim,windows&perline=12" />
+				<img src="https://skillicons.dev/icons?i=git,github,figma,postman,docker,gitlab,aws,arch,neovim,windows&perline=12" />
       			</td>
 		</tr>
   	<table/>
