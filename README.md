@@ -29,7 +29,7 @@
 					
 I'm an 18-year-old tech enthusiast who has been immersed in the world of technology since childhood. My fascination with modern devices like computers and smartphones led me to discover my passion for IT and, later, for programming.
 
-Since then, I've been diving deeper into this vast field every day, continuously expanding my knowledge and striving to become a top-tier professional. I'm a certified computer technician and currently pursuing Web Design at Faculdade de Informática e ADM Paulista (100% ProUni) and Software Engineering at Jala University, an American institution.<br>
+Since then, I've been diving deeper into this vast field every day, continuously expanding my knowledge and striving to become a top-tier professional. I'm a certified computer technician and currently pursuing Web Design at Faculdade de Informática e Administração Paulista (100% ProUni) and Software Engineering at Jala University, an American institution.<br>
 
 <h2>🚀 My Goals & Values</h2> 
     💻 Aspiring Full-Stack Developer with a passion for UI/UX Design <br><br>
